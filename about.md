@@ -1,18 +1,22 @@
 ---
 title: About
 permalink: /about/
-layout: default
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+layout: about
+excerpt: Hola amigxs, este es un pequeño proyecto que pretende documentar los libros, peliculas y series que consumo y dar una pequeña reseña de estas.
 comments: false
+
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Cuando era pequeño, en mi casa teniamos un cuaderno en donde ibamos anotando, en una suerte de listado, el nombre de las películas que alquilábamos en el videoclub.
 
-If you have a question about him or else, just send a letter to him.
+Era algo así como una ayuda memoria para evitar alquilar la misma película dos veces. La realidad es que con el tiempo se nos iba olvidando de anotar y  al cabo de un tiempo dejamos de usar este método. 
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Hoy este pequeño proyecto cumple parte de esa función. Por un lado es un ejercico para mi memoría , por otro lado mi deseo de compartir con los demás, **microreseñas de libros, películas y series que voy consumiendo**.
 
-**may u needs ✨**
+Por último, no tomes tan enserio las mismas, esto no es más que un pasatiempo, un ejercicio de escritura y libreración de pensamiento. Espero que lo disfrutes tanto como yo.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Si querés recomendarme algún libro, película o serie no dudes en [escribirme](matiaszappala@gmail.com). También podes encontrarme en [Twitter](https://twitter.com/matiasrz_)(https://twitter.com/matiasrz_).
+
+Con cariño ✨,
+
+Matías.
