@@ -11,13 +11,13 @@ data-theme: dark # default theme "dark" | "light"
 author:
   name: Matias
   bio: Microreseñas sobre libros, películas y series.
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
+  username: yeite # general username
+  github:  # github username
+  twitter: matiasrz_ # twitter username
   email: your-email@email.com # email adress
 
 # URL settings
-url: "https://yeite.github.io/" # Domain Name of host. [username].github.io for github pages
+url: "https://yeite.github.io" # Domain Name of host. [username].github.io for github pages
 baseurl: "/lps" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
