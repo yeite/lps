@@ -1,16 +1,16 @@
-site: Gesko
-title: Gesko
+site: LPS
+title: Libros, películas y series
 description: >-
-  just a minimalist, personal blog
+  En esta página vas a encontrar mis reseñas sobre libros, películas y series.
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/yeite/lps # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
-  bio: just a minimalist, personal blog
+  name: Matias
+  bio: Microreseñas sobre libros, películas y series.
   username: p0wex # general username
   github: p0wex # github username
   twitter: P0Wex # twitter username
