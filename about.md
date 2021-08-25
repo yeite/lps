@@ -15,7 +15,7 @@ Hoy este pequeño proyecto cumple parte de esa función. Por un lado es un ejerc
 
 Por último, no tomes tan enserio las mismas, esto no es más que un pasatiempo, un ejercicio de escritura y libreración de pensamiento. Espero que lo disfrutes tanto como yo.
 
-Si querés recomendarme algún libro, película o serie, [escribire](mailto:matiaszappala@gmail.com), siempre me encuentro abierto a buenas recomendacioens. También podes encontrarme en [Twitter](https://twitter.com/matiasrz_).
+Si querés recomendarme algún libro, película o serie, [escribime](mailto:matiaszappala@gmail.com). También podes encontrarme en [Twitter](https://twitter.com/matiasrz_).
 
 Con cariño ✨,
 
