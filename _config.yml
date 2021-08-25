@@ -22,6 +22,10 @@ baseurl: "/lps" # sub folder for jekyll site. only if jekyll site not in root of
 permalink: pretty
 
 
+# Homepage limit posts
+number_of_posts: 5
+
+
 markdown: kramdown
 kramdown:
   input: GFM
