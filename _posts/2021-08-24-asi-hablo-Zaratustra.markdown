@@ -14,4 +14,4 @@ Autor: Friedrich Nietzsche
 
 Una novela filosófica algo difícil de leer, como todo texto filosófico que te abre los ojos sobre todo si la descbures en la edad donde estás formando tu opinión y cuestionándote algunas cosas. 
 
-Un librocontroversial en la época en que se publicó y mucho después también.
+Un libro controversial en la época en que se publicó y mucho después también.
