@@ -3,7 +3,7 @@ layout: default
 ---
 <section id="intro">
     <div class="flex-row-between">
-        <h1>Hi 3👋</h1>
+        <h1>Hola 👋</h1>
         <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
             <div></div>
         </button>
@@ -11,7 +11,7 @@ layout: default
     <div class="bio">
 	    {{ site.description }}
 	    <a href="{{ site.url }}{{ site.baseurl }}/about"> About me</a>
-	    <a href="{{ site.url }}{{ site.baseurl }}/archive"> Archivo 222</a>
+	    
         </p>
     </div>
 
@@ -40,7 +40,7 @@ layout: default
 
 
 <section class="posts" id="Blog">
-    <h2>BLOG</h2>
+    <h2>Últimas reseñas</h2><a href="{{ site.url }}{{ site.baseurl }}/archive">Ver todas</a>
     <ul>
         {% for post in site.posts %}
         <li>
