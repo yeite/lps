@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Wall-E"
-categories: pelicula
+tags: pelicula
 ---
 
 ![Walle](https://www.encadenados.org/rdc/images/stories/rashomon/num_69/wall-e107.jpg)
 
-- Puntaje: 1/5
-- Año: 2008
-- Director: Andrew Stanton
+Puntaje: 1/5
+Año: 2008
+Director: Andrew Stanton
 
 ¿Debería dar mi opinión sobre una película que nunca pude terminar de ver en dos intentos? 
 
