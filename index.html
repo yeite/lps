@@ -8,12 +8,12 @@ layout: default
             <div></div>
         </button>
     </div>
-    <div class="bio">
+    <div class="bio"><p>
 	    {{ site.description }}
-        <p> <a href="{{ site.url }}{{ site.baseurl }}/about"> Conoce más</a>sobre este proyecto.</p>
+         <a href="{{ site.url }}{{ site.baseurl }}/about"> Conoce más </a>sobre este proyecto.</p>
 
 	    
-        </p>
+    
     </div>
 
 
@@ -43,7 +43,7 @@ layout: default
 <section class="posts" id="Blog">
     <h2>Últimas reseñas<small><a href="{{ site.url }}{{ site.baseurl }}/archive">Ver todas</a></small></h2>
     <ul>
-        {% for post in site.posts %}
+        {%- for post in site.posts limit: site.number_of_posts -%}
         <li>
 		<a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
