@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Así habló Zaratustra"
-categories: libro
+tags: libro
 ---
 
 
