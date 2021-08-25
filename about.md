@@ -1,5 +1,5 @@
 ---
-title: About
+title: "Sobre este proyecto"
 permalink: /about/
 layout: about
 excerpt: Hola amigxs, este es un pequeño proyecto que pretende documentar los libros, peliculas y series que consumo y dar una pequeña reseña de estas.
