@@ -4,9 +4,17 @@ layout: default
 ---
 
 
-    
 <section class="post">
-    <h2>Todas las reseñas 33</h2>
+  <div class="flex-row-between">
+	  <a href="{{ site.url }}{{ site.baseurl }}/">« Home</a>
+    <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
+      <div></div>
+    </button>
+  </div>
+
+    
+
+    <h2>Todas las reseñas 11</h2>
     <ul>
         {% for post in site.posts %}
         <li>
