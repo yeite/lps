@@ -12,7 +12,7 @@ Puntaje: 5/5
 Año: 1885
 Autor: Friedrich Nietzsche
 
-Un novela filosófico algo dificil de leer , como son la mayoría de este género escrita por filósofos.
+Un novela filosófica algo dificil de leer, como todo texto filosófico.
 
 Un texto que te abre los ojos sobre todo si lo lees en la edad donde estás formando tu opinión y cuestionandote algunas cosas. 
 
