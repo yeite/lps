@@ -2,6 +2,7 @@
 layout: post
 title:  "V de venganza"
 tags: pelicula
+puntaje: 4
 ---
 
 

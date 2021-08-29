@@ -2,6 +2,7 @@
 layout: post
 title:  "Así habló Zaratustra"
 tags: libro
+puntaje: 5
 ---
 
 
@@ -12,6 +13,11 @@ Puntaje: 5/5
 Año: 1885
 Autor: Friedrich Nietzsche
 
-Una novela filosófica algo difícil de leer, como todo texto filosófico que te abre los ojos sobre todo si la descbures en la edad donde estás formando tu opinión y cuestionándote algunas cosas. 
+
+
+Una novela filosófica, que como todo texto de este estilo se vuele algo difícil de leer.
+
+Esta obra abre los ojos, sobre todo si la lees en una edad en que estas formando opinión y cuestionándote algunas cosas.  
 
 Un libro controversial en la época en que se publicó y mucho después también.
+
