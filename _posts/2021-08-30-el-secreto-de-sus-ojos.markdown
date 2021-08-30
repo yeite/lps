@@ -11,7 +11,7 @@ puntaje: 5
 
 Puntaje: 5/5 
 Año: 2009
-Director: : Juan José Campanella
+Director: Juan José Campanella
 
 Argentina hasta el momento ha ganado dos Oscar a mejor película y uno de ellos es por este film. El final es una sorpresa.
 
