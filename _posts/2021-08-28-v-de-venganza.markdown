@@ -5,8 +5,6 @@ tags: pelicula
 puntaje: 4
 ---
 
-
-
 ![V de venganza](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSntHBIwMMGCBbAtdv1SyVHjl6dBPLX5B9BIZehKIbNmqUjh5bK)
 
 Puntaje: 4/5 

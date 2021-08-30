@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "El clan"
+tags: pelicula
+puntaje: 4
+---
+
+
+
+![El clan](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9rSmA9Apz4YtkxkLKDK5AnN9Kri2un_VtesD3MLoO1ZCnJvpk)
+
+Puntaje: 4/5 
+Año: 2015 
+Director: Pablo Trapero
+
+Excelente recreación de una de los casos más impactantes en la historia Argentina: el clan Puccio.
+

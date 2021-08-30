@@ -13,8 +13,6 @@ Puntaje: 5/5
 Año: 1885
 Autor: Friedrich Nietzsche
 
-
-
 Una novela filosófica, que como todo texto de este estilo se vuele algo difícil de leer.
 
 Esta obra abre los ojos, sobre todo si la lees en una edad en que estas formando opinión y cuestionándote algunas cosas.  
