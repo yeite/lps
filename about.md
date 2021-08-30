@@ -17,6 +17,6 @@ Por último, no tomes tan enserio las mismas, esto no es más que un pasatiempo,
 
 Si querés recomendarme algún libro, película o serie, [escribime](mailto:matiaszappala@gmail.com). También podes encontrarme en [Twitter](https://twitter.com/matiasrz_).
 
-Estaré aquí mismo ✨👽🖖,
+Estaré aquí mismo ✨👽,
 
 Matías.
