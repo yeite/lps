@@ -13,13 +13,7 @@ Puntaje: 5/5
 Año: 2019
 Director: Martin Scorsese
 
-Para algunos una película muy larga que [hay que ver en varias dosis](https://www.lavanguardia.com/series/20210830/7689055/son-peliculas-series-desapareceran-netflix-septiembre-2021-mmn.html){:target="_blank"}
-
-[como este](https://www.lavanguardia.com/series/20210830/7689055/son-peliculas-series-desapareceran-netflix-septiembre-2021-mmn.html){:target="_blank"}
-
-
-
-. Una excelente película de Scorsese relacionada al mafia de los sindicatos. 
+Para algunos una película muy larga que [hay que ver en varias dosis](https://www.lavanguardia.com/series/20210830/7689055/son-peliculas-series-desapareceran-netflix-septiembre-2021-mmn.html){:target="_blank"}. Una excelente película de Scorsese relacionada al mafia de los sindicatos. 
 
 Quizás esta fue la última oportunidad de ver a De Niro, Al Pacino y Joe Pesci trabajando juntos.
 
