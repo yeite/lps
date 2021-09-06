@@ -13,5 +13,5 @@ Puntaje: 3/5
 Año: 2021
 Director: Daymon Patterson
 
-Si delante tuyo ves a alguien comiendo una hamburgesa y te dan ganas de darle un mordisco, entonces esta serie te va a gustar.
+Si delante tuyo ves a alguien comiendo una hamburguesa y te dan ganas de darle un mordisco, entonces esta serie te va a gustar.
 

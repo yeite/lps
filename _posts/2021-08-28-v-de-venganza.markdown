@@ -11,8 +11,8 @@ Puntaje: 4/5
 Año: 2005 
 Director: James McTeigue
 
-Muy buena fotografía, excelentes diálogos con una historia de amor que no termina de encajar porque se ve forzada como si por decreto tuviera que haberla en la pelicula. 
+Muy buena fotografía, excelentes diálogos con una historia de amor que no termina de encajar porque se ve forzada como si por decreto tuviera que haberla en la película. 
 
-El guión es un poco 1984, historias conspirativas y la vida misma. 
+El guion es un poco 1984, historias conspirativas y la vida misma. 
 
-La pelicula sería aún más intersante si la trama hubiese sido tratada de manera más oscura. 
+La película sería aún más interesante si la trama hubiese sido tratada de manera más oscura. 

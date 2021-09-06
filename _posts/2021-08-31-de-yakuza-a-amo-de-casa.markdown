@@ -13,5 +13,5 @@ Puntaje: 5/5
 Año: 2018 
 Director: Kousuke Oono
 
-Original y divertida ver como un Yakuza aplica sus conocimientos a las tareas del hogar. Los capitulos no duran más de 20 minutos. 
+Original y divertida ver como un Yakuza aplica sus conocimientos a las tareas del hogar. Los capítulos no duran más de 20 minutos. 
 
