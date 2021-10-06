@@ -7,7 +7,7 @@ comments: false
 
 ---
 
-Cuando era pequeño en mi casa teniamos un cuaderno en donde anotábamos, en una suerte de listado, el nombre de las películas que alquilábamos en el videoclub.
+Cuando era pequeño en mi casa teníamos un cuaderno en donde anotábamos, en una suerte de listado, el nombre de las películas que alquilábamos en el videoclub.
 
 Era algo así como un ayuda memoria para evitar alquilar la misma película dos veces. La realidad es que a medida que pasaban los días, se nos iba olvidando de utilizar y al cabo de un tiempo dejamos de usar este método. 
 
