@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eljuego del calamar"
+title:  "El juego del calamar"
 tags: serie
 puntaje: 3
 ---
