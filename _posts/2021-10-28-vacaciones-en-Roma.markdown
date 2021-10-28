@@ -21,5 +21,5 @@ Vacaciones en Roma, es el film en la que se centra el guion de la película [Enr
 
 
 
-[Link to a post]({{ site.baseurl }}{% link _posts/2021-09-22-enrico-piaggio %})
+[Link to a post]({{ site.baseurl }}{% link _posts/2021-09-22-enrico-piaggio.md %})
 
