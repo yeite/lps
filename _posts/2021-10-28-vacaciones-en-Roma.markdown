@@ -18,3 +18,8 @@ Divertida y fresca. Todo un clásico del género de comedia romántica.
 Una princesa cansada de la vida de nobleza decide escaparse de la vida diplomática y pasar un día de incógnita en la ciudad de Roma.
 
 Vacaciones en Roma, es el film en la que se centra el guion de la película  [Enrico Piaggio: Un sueño Italiano](lps/2021/09/22/enrico-piaggio)
+
+
+
+[Some Link]({% post_url 2021-10-28-enrico-piagio %})
+
