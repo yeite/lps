@@ -17,6 +17,6 @@ Divertida y fresca. Todo un clásico del género de comedia romántica.
 
 Una princesa cansada de la vida de nobleza decide escaparse de la vida diplomática y pasar un día de incógnita en la ciudad de Roma.
 
-[cheese pizza]({{ site.baseurl }}/2021/10/28/vacaciones-en-roma.md)
+[cheese pizza]({{ site.baseurl }}/2021/10/28/vacaciones-en-roma)
 
-19
+20
