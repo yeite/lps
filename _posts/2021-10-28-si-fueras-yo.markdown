@@ -14,8 +14,3 @@ Año: 2011
 Director: David Dobkin
 
 ¿Cuántas veces deseamos tener por un momento la vida del otro? ¿Y si se haría realidad? Con esta interesante premisa con la que pudo sacar provecho de un guion interesante, esta comedia hollywoodense se limita a intentar hacernos reír con chistes fáciles y de mal gusto.
-
-
-
-Vacaciones en Roma, es el film en la que se centra el guion de la película 
-
