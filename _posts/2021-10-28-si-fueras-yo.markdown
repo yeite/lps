@@ -19,7 +19,3 @@ Director: David Dobkin
 
 Vacaciones en Roma, es el film en la que se centra el guion de la película 
 
-[Enrico Piaggio: Un sueño Italiano]({% link _posts/2021-09-22-enrico-piaggio %}).
-
-8
-
