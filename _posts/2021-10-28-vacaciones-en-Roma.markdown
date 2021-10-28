@@ -19,7 +19,3 @@ Una princesa cansada de la vida de nobleza decide escaparse de la vida diplomát
 
 Vacaciones en Roma, es el film en la que se centra el guion de la película [Enrico Piaggio: Un sueño Italiano]({{ site.baseurl }}/2021-09-22-enrico-piaggio).
 
-
-
-[Link to a post]({{ site.baseurl }}{% link _posts/2021-09-22-enrico-piaggio.md %})
-
