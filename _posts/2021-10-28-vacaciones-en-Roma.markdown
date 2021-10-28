@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Vacaciones en Roma"
+title:  "Si fueras yo"
 tags: pelicula
-puntaje: 4
+puntaje: 1
 ---
 
 
 
-![Vacaciones en Roma](https://pics.filmaffinity.com/Vacaciones_en_Roma-892083857-large.jpg)
+![Si fueras yo](https://pics.filmaffinity.com/Vacaciones_en_Roma-892083857-large.jpg)
 
-Puntaje: 4/5 
-Año: 1953
-Director: Aneesh Chaganty
+Puntaje: 1/5 
+Año: 2011
+Director: David Dobkin
 
-Divertida y fresca. Todo un clásico del género de comedia romántica.
-
-Una princesa cansada de la vida de nobleza decide escaparse de la vida diplomática y pasar un día de incógnita en la ciudad de Roma.
-
-Vacaciones en Roma, es el film en la que se centra el guion de la película  [Enrico Piaggio: Un sueño Italiano]({% post_url 2021-10-28-enrico-piaggio %})
-
-[Name of Link]({% post_url 2010-07-21-name-of-post %})
-
-[Some Link]({% post_url 2021-10-28-enrico-piagio %})
-
+¿Cuántas veces deseamos tener por un momento la vida del otro? ¿Y si se haría realidad? Con esta interesante premisa con la que pudo sacar provecho de un guion interesante, esta comedia hollywoodense se limita a intentar hacernos reír con chistes fáciles y de mal gusto.
