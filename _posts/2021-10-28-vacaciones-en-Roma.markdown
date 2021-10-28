@@ -17,7 +17,7 @@ Divertida y fresca. Todo un clásico del género de comedia romántica.
 
 Una princesa cansada de la vida de nobleza decide escaparse de la vida diplomática y pasar un día de incógnita en la ciudad de Roma.
 
-[Enrico Piaggio: Un sueño Italiano]({% post_url /lps/_posts/2021-09-22-enrico-piaggio %}).
+[Enrico Piaggio: Un sueño Italiano]({% link _posts/2021-09-22-enrico-piaggio.md %}).
 
-18
+19
 
