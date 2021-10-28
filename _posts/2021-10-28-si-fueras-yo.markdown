@@ -17,5 +17,3 @@ Director: David Dobkin
 
 
 
-[Enrico Piaggio: Un sueño Italiano]({% post_url 2021-09-22-enrico-piaggio %})
-
