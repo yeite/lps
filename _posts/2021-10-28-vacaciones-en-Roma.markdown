@@ -1,16 +1,20 @@
 ---
 layout: post
-title:  "Si fueras yo"
+title:  "Vacaciones en Roma"
 tags: pelicula
-puntaje: 1
+puntaje: 4
 ---
 
 
 
-![Si fueras yo](https://pics.filmaffinity.com/Vacaciones_en_Roma-892083857-large.jpg)
+![Vacaciones en Roma](https://pics.filmaffinity.com/Vacaciones_en_Roma-892083857-large.jpg)
 
-Puntaje: 1/5 
-Año: 2011
-Director: David Dobkin
+Puntaje: 4/5 
+Año: 1953
+Director: Aneesh Chaganty
 
-¿Cuántas veces deseamos tener por un momento la vida del otro? ¿Y si se haría realidad? Con esta interesante premisa con la que pudo sacar provecho de un guion interesante, esta comedia hollywoodense se limita a intentar hacernos reír con chistes fáciles y de mal gusto.
+Divertida y fresca. Todo un clásico del género de comedia romántica.
+
+Una princesa cansada de la vida de nobleza decide escaparse de la vida diplomática y pasar un día de incógnita en la ciudad de Roma.
+
+Vacaciones en Roma, es el film en la que se centra el guion de la película  
