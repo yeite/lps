@@ -11,7 +11,7 @@ puntaje: 5
 
 Puntaje: 5/5 
 Año: 1978
-Director: John Carpenter
+Director: John Carpenter; Debra Hill
 
 Terror clásico del bueno. 
 
