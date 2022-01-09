@@ -16,7 +16,3 @@ Director: Adam McKay
 Un film de fantasía apocalíptica sobre un asteroide que esta próximo a impactar sobre el planeta y destruir a todo la humanidad. 
 
 Pero no es el típico film del fin del mundo, tampoco aparecen héroes para salvarlos. Esta película es una sátira a la sociedad actual, hedonista, vacía, conflictiva, absurda y banal.
-
-Paolo no ahorra en metáforas. **Fue la mano de Dios** es de esas películas que cuando se la mira más de una vez, se le encuentran más y más detalles y se desvelan aún más significados. 
-
- 
