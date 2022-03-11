@@ -13,7 +13,7 @@ Puntaje: 2/5
 Año: 2021
 Director: Takahiro Miki
 
-Un film que mezcla romance y fantasía de viajes en el tiempo, demasiado edulcorado, sentimental y pero que uno no logra conectar y encariñarse con los personajes.
+Un film que mezcla romance y fantasía de viajes en el tiempo, demasiado edulcorado, sentimental en donde uno no logra conectar y encariñarse con los personajes.
 
 Un pionero de los robots de IA que se ve traicionado por su novia y su socio, decide criogenizarse para despertar 30 años en el futuro y resolver el problema del pasado, para luego, volver al futuro (¿?). 
 

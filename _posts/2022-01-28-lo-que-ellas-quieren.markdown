@@ -7,7 +7,7 @@ puntaje: 2
 
 
 
-![Lo que ellas quieren](https://static.wikia.nocookie.net/doblaje/images/0/0c/Dvd-lo-que-ellas-quieren-2000.jpg/revision/latest/scale-to-width-down/857?cb=20200206213304&path-prefix=es)
+![Lo que ellas quieren](https://pics.filmaffinity.com/what_women_want-152267653-large.jpg)
 
 Puntaje: 2/5 
 Año: 2000
