@@ -7,7 +7,7 @@ puntaje: 3
 
 
 
-![¡Eso que tú haces!](https://static.wikia.nocookie.net/doblaje/images/9/94/Eso.que.vos.hac%C3%A9s.jpg/revision/latest?cb=20210717033317&path-prefix=es)
+![¡Eso que tú haces!](https://pics.filmaffinity.com/that_thing_you_do-966807383-large.jpg)
 
 Puntaje: 3/5 
 Año: 1996
