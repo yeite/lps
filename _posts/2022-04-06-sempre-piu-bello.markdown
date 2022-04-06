@@ -15,6 +15,8 @@ Director: Claudio Norza
 
 Esta trilogía fue superándose entrega tras entrega. Una película que te mantiene atrapado, con momentos tensos, de llanto pero también de risa. Si bien el final no esta mal, quizás le faltaba un mejor cierre, al menos post créditos.
 
+
+
 Películas que componen estar trilogía:
 
 - [Sul più bello]({{ site.baseurl }}/2021/09/17/en-el-mejor-momento)

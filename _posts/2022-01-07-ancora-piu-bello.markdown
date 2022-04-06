@@ -23,3 +23,11 @@ El director transformó esta película en una serie de larga duración, pero log
 
 No se suele decir que las segundas partes si son buenas, pero que superen a la primera es casi imposible. Esto pasa con esta secuela, que desde ya sabemos que al menos será trilogía.
 
+
+
+Películas que componen estar trilogía:
+
+- [Sul più bello]({{ site.baseurl }}/2021/09/17/en-el-mejor-momento)
+- [Ancora più bello]({{ site.baseurl }}/2022/01/07/ancora-piu-bello)
+- [Sempre più bello]({{ site.baseurl }}/2022/04/06/sempre-piu-bello)
+
