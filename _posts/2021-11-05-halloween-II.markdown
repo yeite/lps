@@ -21,6 +21,6 @@ Películas que componen la saga:
 
 - [Halloween II]({{ site.baseurl }}/2021/11/05/halloween-II)
 
-- [Halloween 4]({{ site.baseurl }}/2022/12/05/halloween-4)
+- [Halloween 4]({{ site.baseurl }}/2022/05/12/halloween-4)
 
   
