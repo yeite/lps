@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Halloween 4:el regreso de Michael Myers"
+title:  "Halloween 4: el regreso de Michael Myers"
 tags: pelicula
 puntaje: 4
 ---
@@ -21,7 +21,7 @@ Películas que componen la saga:
 
 - [Halloween]({{ site.baseurl }}/2021/10/01/halloween)
 
-- [Halloween II]({{ site.baseurl }}/2021/11/05/halloween-II)
+- [Halloween II]({{ site.baseurl }}/2021/11/05/halloween-ii)
 
 - [Halloween 4]({{ site.baseurl }}/2022/05/12/halloween-4)
 
