@@ -15,3 +15,12 @@ Director: John Carpenter; Debra Hill
 
 O podría llamarse Halloween recargado. En esta entrega, el protagonista, asesina a más gente y de varias maneras. Todo transcurre dentro de un hospital. Con un guión con más cuerpo que [su antecesora]({{ site.baseurl }}/2021/10/01/halloween), el film pierde esa simpleza que caracterizaba a la primera entrega que la hizo tan recordada y especial. Hasta en las películas a veces lo *simple es mejor*
 
+Películas que componen la saga:
+
+- [Halloween]({{ site.baseurl }}/2021/10/01/halloween)
+
+- [Halloween II]({{ site.baseurl }}/2021/11/05/halloween-II)
+
+- [Halloween 4]({{ site.baseurl }}/2022/12/05/halloween-4)
+
+  
