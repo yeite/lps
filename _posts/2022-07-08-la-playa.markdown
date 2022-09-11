@@ -5,6 +5,7 @@ tags: pelicula
 puntaje: 4
 year: 2000
 director: Danny Boyle
+Img: https://pics.filmaffinity.com/the_beach-814683684-large.jpg
 ---
 
 
