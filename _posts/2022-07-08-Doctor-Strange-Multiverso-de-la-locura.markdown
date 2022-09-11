@@ -1,17 +1,14 @@
 ---
 layout: post
-title:  "Doctor Strange en el multiverso de la locura"
+title:  Doctor Strange en el multiverso de la locura
 tags: pelicula
 puntaje: 3
+year: 2022
+director: Sam Raimi
+img: https://pics.filmaffinity.com/doctor_strange_in_the_multiverse_of_madness-610981386-large.jpg)
 ---
 
 
-
-![Doctor Strange en el multiverso de la locura](https://pics.filmaffinity.com/doctor_strange_in_the_multiverse_of_madness-610981386-large.jpg)
-
-Puntaje:3/5 
-Año: 2022
-Director: Sam Raimi
 
 Cada tanto chapoteo por estas películas que tienen el sello de Marvel, si bien no son de mis favoritas, cada tanto veo este tipo de film que los medios se encargan de transformarla en la película del momento y de la que todos hablan. 
 

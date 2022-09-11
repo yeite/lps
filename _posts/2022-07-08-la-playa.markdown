@@ -1,20 +1,12 @@
 ---
 layout: post
-title:  "La Playa"
+title:  La Playa
 tags: pelicula
 puntaje: 4
 year: 2000
-director: Danny Boyle <<<
+director: Danny Boyle
 img: https://pics.filmaffinity.com/the_beach-814683684-large.jpg
 ---
-
-
-
-![La Playa](https://pics.filmaffinity.com/the_beach-814683684-large.jpg)
-
-Puntaje: 4/5 
-Año: 2000
-Director: Danny Boyle
 
 DiCaprio nos tiene acostumbrado a películas distintas. Una de ellas es **La Playa**. Basada en el titulo homónimo del libro de Alex Garland, cuenta la historia de un mochilero que busca una isla que promete ser el  paraíso. Allí se encuentra con una aldea libre de preocupaciones y donde todo aparenta ser felicidad pura.
 

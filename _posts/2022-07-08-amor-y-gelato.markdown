@@ -3,15 +3,10 @@ layout: post
 title:  "Amor y Gelato"
 tags: pelicula
 puntaje: 3
+year: 2022
+director: Brandon Camp
+img: https://pics.filmaffinity.com/love_gelato-909447795-large.jpg 
 ---
-
-
-
-![Amor y Gelato](https://pics.filmaffinity.com/love_gelato-909447795-large.jpg)
-
-Puntaje: 3/5 
-Año: 2022
-Director: Brandon Camp
 
 Una película romántica adolescente ambientada en la ciudad de Roma. Una historia bien contada, visible, pero sin nada nuevo que aportar.
 
