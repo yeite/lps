@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Halloween 4: el regreso de Michael Myers"
+tags: pelicula
+puntaje: 4
+year: 1988
+director: Dwight H. Little
+img: https://pics.filmaffinity.com/halloween_4_the_return_of_michael_myers-476103153-large.jpg
+---
+
+Esta entrega es la continuación de la [Halloween II]({{ site.baseurl }}/2021/11/05/halloween-II) ya que es el regreso de Michel Myers a la saga. La película supera con creces a esta última, con un final que deja buenas expectativas para la siguiente.
+
+Michel Myers sale después de estar diez años internado en un hospital para matar a su sobrina y todo lo que se le interponga en su camino. 
+
+Películas que componen la saga:
+
+- [Halloween]({{ site.baseurl }}/2021/10/01/halloween)
+
+- [Halloween II]({{ site.baseurl }}/2021/11/05/halloween-ii)
+
+- [Halloween 4]({{ site.baseurl }}/2022/05/12/halloween-4)
+
+  
