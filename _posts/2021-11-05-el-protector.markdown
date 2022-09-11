@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El Protector"
+title:  El Protector
 tags: pelicula
 puntaje: 2
 year: 2021

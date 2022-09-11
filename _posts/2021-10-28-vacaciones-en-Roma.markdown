@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vacaciones en Roma"
+title: Vacaciones en Roma
 tags: pelicula
 puntaje: 4
 year: 1953
