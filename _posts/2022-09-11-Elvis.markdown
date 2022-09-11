@@ -1,0 +1,15 @@
+---
+layout: post
+title: Elvis
+tags: pelicula
+puntaje: 4
+year: 2022
+director: Baz Luhrmann
+img: https://pics.filmaffinity.com/elvis-647942773-large.jpg
+---
+
+Esta contada desde la perspectiva del Coronel Parker, el manager de Elvis Presley.
+
+Una excelente narrativa llena de metáforas visuales. Sin puntualizar demasiado se mete y sale de los temas con rapidez sin ahondar demasiado en miserias y crear un melodrama profundo se muestra a un Elvis como un producto más del merchandising, vacío. 
+
+Es el enfoque que le quiso dar el director y no está para nada mal. Su forma de grabación no deja al espectador indiferente, que de momentos hay retazos en tomas de película de superhéroe de cómic.  

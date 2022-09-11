@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Wall-E
+title:  "Wall-E"
 tags: pelicula
 puntaje: X
 year: 2008
