@@ -1,0 +1,13 @@
+---
+layout: post
+title:  La Playa
+tags: pelicula
+puntaje: 4
+year: 2000
+director: Danny Boyle
+img: https://pics.filmaffinity.com/the_beach-814683684-large.jpg
+---
+
+DiCaprio nos tiene acostumbrado a películas distintas. Una de ellas es **La Playa**. Basada en el titulo homónimo del libro de Alex Garland, cuenta la historia de un mochilero que busca una isla que promete ser el  paraíso. Allí se encuentra con una aldea libre de preocupaciones y donde todo aparenta ser felicidad pura.
+
+Sin embargo, a medida que pasan los días, se ve el comportamiento humano, que a pesar de estar  bajo condiciones en donde el ser humano se encuentra libre de toda  preocupación rodeado del más bello entorno natural, nada cambia la  escencia del ser humano, sus miserias, egoismo, desinterés y maldad con el único objetivo que es la de bloquear todo tipo de dolor y mantener  apartado a los curiosos que intentan llegar a ese lugar que es, para los resdientes, el paraíso.
