@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Wall-E
+tags: pelicula
+puntaje: X
+year: 2008
+director: Andrew Stanton
+img: https://www.encadenados.org/rdc/images/stories/rashomon/num_69/wall-e107.jpg
+---
+
+¿Debería opinar sobre una película que dos veces intenté terminar de ver?
+
+Nota de color: en los primeros 40 minutos no hay diálogos.
+
+Prometo darle una tercera oportunidad.
