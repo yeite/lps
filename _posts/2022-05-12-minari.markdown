@@ -1,0 +1,13 @@
+---
+layout: post
+title: Minari
+tags: pelicula
+puntaje: 4
+year: 2020
+director: Lee Isaac Chung
+img: https://pics.filmaffinity.com/minari-400403338-large.jpg
+---
+
+Sencillo relato del sueño americano encarnada desde una perspectiva de familia coreana que decide mudarse al campo para cosechar y vender sus productos. 
+
+La historia no tiene un desenlace como tal pero la manera sencilla de contar la historia hace de este sutil guión una obra para degustar. 

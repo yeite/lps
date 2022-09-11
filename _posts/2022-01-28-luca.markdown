@@ -1,0 +1,11 @@
+---
+layout: post
+title: Luca
+tags: pelicula
+puntaje: 2
+year: 2021
+director: Enrico Casarosa
+img: https://pics.filmaffinity.com/luca-907827591-large.jpg
+---
+
+Una buena animación eclipsada por otros éxitos de Disney ya que el guion es algo que hemos visto en otras películas. Quizás lo más destacable del film es la recreación animada de Manarola, un pueblo encantador de Italia que es donde transcurren los hechos. De lo contrario, poco tendría de atractivo esta película.
