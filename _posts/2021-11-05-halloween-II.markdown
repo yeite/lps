@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Halloween II
+title: "Halloween II"
 tags: pelicula
 puntaje: 3
 year: 1981

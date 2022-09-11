@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8½
+title: "8½"
 tags: pelicula
 puntaje: 2
 year: 1963

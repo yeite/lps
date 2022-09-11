@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""Halloween (1978)"
+title:  "Halloween (1978)"
 tags: pelicula
 puntaje: 5
 year: 1978

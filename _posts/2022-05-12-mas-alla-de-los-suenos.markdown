@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Más allá de los sueños
+title: "Más allá de los sueños"
 tags: pelicula
 puntaje: 4
 year: 1998
