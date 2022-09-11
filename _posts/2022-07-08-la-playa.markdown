@@ -3,6 +3,8 @@ layout: post
 title:  "La Playa"
 tags: pelicula
 puntaje: 4
+year: 2000
+director: Danny Boyle
 ---
 
 
