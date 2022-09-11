@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Puerta al verano"
+title: Puerta al verano
 tags: pelicula
 puntaje: 2
+year: 2021
+director: Takahiro Miki
+img: https://pics.filmaffinity.com/the_door_into_summer-105412429-large.jpg
 ---
-
-
-
-![Puerta al verano](https://pics.filmaffinity.com/the_door_into_summer-105412429-large.jpg)
-
-Puntaje: 2/5 
-Año: 2021
-Director: Takahiro Miki
 
 Un film que mezcla romance y fantasía de viajes en el tiempo, demasiado edulcorado, sentimental en donde uno no logra conectar y encariñarse con los personajes.
 

@@ -3,15 +3,10 @@ layout: post
 title:  "Vacaciones en Roma"
 tags: pelicula
 puntaje: 4
+year: 1953
+director: Aneesh Chaganty
+img: https://pics.filmaffinity.com/Vacaciones_en_Roma-892083857-large.jpg
 ---
-
-
-
-![Vacaciones en Roma](https://pics.filmaffinity.com/Vacaciones_en_Roma-892083857-large.jpg)
-
-Puntaje: 4/5 
-Año: 1953
-Director: Aneesh Chaganty
 
 Divertida y fresca. Todo un clásico del género de comedia romántica.
 

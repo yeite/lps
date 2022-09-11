@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "8½"
+title: 8½
 tags: pelicula
 puntaje: 2
+year: 1963
+director: Federico Fellini
+img: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS15PDflhzqeJoic-unf0PkFtOdOOnJzKboAeT-UKDtqkEf-BXO
 ---
-
-
-
-![8½](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS15PDflhzqeJoic-unf0PkFtOdOOnJzKboAeT-UKDtqkEf-BXO)
-
-Puntaje: 2/5 
-Año: 1963
-Director: Federico Fellini
 
 Fellini nos sumerge en una vorágine de escenarios y personajes de los mas variados.
 

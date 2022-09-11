@@ -3,15 +3,10 @@ layout: post
 title:  "Un Italiano en Noruega"
 tags: pelicula
 puntaje: 3
+year: 2016
+director: Gennaro Nunziante 
+img: https://es.web.img3.acsta.net/pictures/17/03/27/11/48/444907.jpg
 ---
-
-
-
-![Un Italiano en Noruega](https://es.web.img3.acsta.net/pictures/17/03/27/11/48/444907.jpg)
-
-Puntaje: 3/5 
-Año: 2016
-Director: Gennaro Nunziante
 
 También conocida como *Quo Vado?* o *No renuncio*. Es una sátira al empleado público. Una comedia italiana divertida, ligera, con un chiste tras otro sin pedir mucho más. 
 

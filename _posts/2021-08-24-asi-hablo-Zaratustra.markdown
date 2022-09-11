@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Así habló Zaratustra"
+title:  Así habló Zaratustra
 tags: libro
 puntaje: 5
+year: 1885
+director: Friedrich Nietzsche
+img: https://images-na.ssl-images-amazon.com/images/I/51sLaCwnLhL._SX351_BO1,204,203,200_.jpg
 ---
-
-
-
-![Así habló Zaratustra](https://images-na.ssl-images-amazon.com/images/I/51sLaCwnLhL._SX351_BO1,204,203,200_.jpg)
-
-Puntaje: 5/5
-Año: 1885
-Autor: Friedrich Nietzsche
 
 Una novela filosófica, que como todo texto de este estilo se vuele algo difícil de leer.
 

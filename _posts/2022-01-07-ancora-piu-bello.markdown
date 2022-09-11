@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Ancora più bello"
+title:  Ancora più bello
 tags: pelicula
 puntaje: 3
+year: 2021
+director: Claudio Norza
+img: https://image.tmdb.org/t/p/w500/lE7VFd0jV0Hmde6VTij70zj08lJ.jpg
 ---
-
-
-
-![Puerta al verano](https://image.tmdb.org/t/p/w500/lE7VFd0jV0Hmde6VTij70zj08lJ.jpg)
-
-Puntaje: 3/5 
-Año: 2021
-Director: Claudio Norza
 
 Ancora più bello es la secuela de [Sul più bello]({{ site.baseurl }}/2021/09/17/en-el-mejor-momento). Es quizás por el cambio de director que esta segunda parte la trama se vuelve mas adulta, un poco menos aniñada que la primera. 
 

@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Relatos salvajes"
+title:  Relatos salvajes
 tags: pelicula
 puntaje: 2
+year: 2014
+director: Damián Szifron 
+img: http://1.bp.blogspot.com/-ir2K4l6zPEg/VA0pC2dlkVI/AAAAAAAAAHo/Y7zslvwIWZw/s1600/Relatos-salvajes-poster.jpg
 ---
-
-
-
-![Relatos salvajes](http://1.bp.blogspot.com/-ir2K4l6zPEg/VA0pC2dlkVI/AAAAAAAAAHo/Y7zslvwIWZw/s1600/Relatos-salvajes-poster.jpg)
-
-Puntaje: 2/5 
-Año: 2014
-Director: Damián Szifron 
 
 Es una película que la proyección en el cine le quedó demasiado grande. 
 

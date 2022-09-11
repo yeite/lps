@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Euroviaje Censurado"
+title:  Euroviaje Censurado
 tags: pelicula
 puntaje: 5
+year: 2004
+director: Jeff Schaffer, Alec Berg, David Mandel
+img: https://pics.filmaffinity.com/EuroTrip-278065936-large.jpg
 ---
-
-![Euroviaje Censurado](https://pics.filmaffinity.com/EuroTrip-278065936-large.jpg)
-
-Puntaje: 5/5
-Año: 2004
-Director: Jeff Schaffer, Alec Berg, David Mandel
 
 Una comedia ideal para cuando uno quiere despejar la mente y olvidarse de los problemas un rato. 
 

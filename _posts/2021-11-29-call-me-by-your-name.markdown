@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Call me by your name"
+title: Call me by your name
 tags: pelicula
 puntaje: 2
+year: 2017
+director: Luca Guadagnino
+img: https://pics.filmaffinity.com/call_me_by_your_name-865431375-large.jpg
 ---
-
-
-
-![Call me by your name](https://pics.filmaffinity.com/call_me_by_your_name-865431375-large.jpg)
-
-Puntaje: 2/5 
-Año: 2017
-Director: Luca Guadagnino
 
 Es una película lenta, con una narrativa correcta pero en donde nada sucede. Nominada a cuatro Oscar y ganadora al Oscar *Mejor guión adaptado*.
 

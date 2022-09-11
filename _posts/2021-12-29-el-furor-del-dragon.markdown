@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "El furor del dragón"
+title:  El furor del dragón
 tags: pelicula
 puntaje: 3
+year: 1972
+director: Bruce Lee
+img: https://es.web.img3.acsta.net/medias/nmedia/18/92/83/41/20220152.jpg
 ---
-
-
-
-![El furor del dragón](https://es.web.img3.acsta.net/medias/nmedia/18/92/83/41/20220152.jpg)
-
-Puntaje: 3/5 
-Año: 1972
-Director: Bruce Lee
 
 Si algo no me dejaba terminar de ver las películas de Bruce Lee es la chirriante musicalización en ellas. Tampoco vamos a pedir ver un guion demasiado elaborado en películas en donde los golpes es la base de todo.
 

@@ -3,15 +3,10 @@ layout: post
 title:  "El juego del calamar"
 tags: serie
 puntaje: 3
+year: 2021
+director: Hwang Dong-hyuk
+img: https://pics.filmaffinity.com/squid_game_tv_series-678089983-large.jpg
 ---
-
-
-
-![El juego del calamar](https://pics.filmaffinity.com/squid_game_tv_series-678089983-large.jpg)
-
-Puntaje: 3/5 
-Año: 2021
-Director: Hwang Dong-hyuk
 
 ¿Podría ser una excelente película de dos horas? Sí.
 

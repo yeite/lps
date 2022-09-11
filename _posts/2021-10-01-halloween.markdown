@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Halloween (1978)"
+title:  Halloween (1978)
 tags: pelicula
 puntaje: 5
+year: 1978
+director: John Carpenter; Debra Hill
+img: https://pics.filmaffinity.com/La_noche_de_Halloween-429753384-large.jpg
 ---
-
-
-
-![Halloween](https://pics.filmaffinity.com/La_noche_de_Halloween-429753384-large.jpg)
-
-Puntaje: 5/5 
-Año: 1978
-Director: John Carpenter; Debra Hill
 
 Terror clásico del bueno. 
 

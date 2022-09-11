@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Benvenuti al sud"
+title: Benvenuti al sud
 tags: pelicula
 puntaje: 4
+year: 2010
+director: Luca Miniero
+img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgjzhBOZKFEDjO3CQg8emI7QItAuS99yq_YlNQAw2ZTkoS4q0U
 ---
-
-
-
-![Benvenuti al sud](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgjzhBOZKFEDjO3CQg8emI7QItAuS99yq_YlNQAw2ZTkoS4q0U)
-
-Puntaje: 4/5 
-Año: 2010
-Director: Luca Miniero
 
 Una parodia de cómo es vista la región sur de Italia desde los ojos de la región norte del país.
 

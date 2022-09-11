@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Love hard"
+title:  Love hard
 tags: pelicula
 puntaje: 3
+year: 2021
+director: Hernán Jiménez García
+img: https://pics.filmaffinity.com/love_hard-807570210-large.jpg
 ---
-
-
-
-![Love Hard](https://pics.filmaffinity.com/love_hard-807570210-large.jpg)
-
-Puntaje: 3/5 
-Año: 2021
-Director: Hernán Jiménez García
 
 Divertida comedia romántica. No es un humor tonto. No deja ese gusto cursi en la boca que caracteriza a este estilo de películas.
 

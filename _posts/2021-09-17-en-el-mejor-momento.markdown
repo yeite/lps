@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "En el mejor momento (Sul più bello)"
+title:  En el mejor momento (Sul più bello)
 tags: pelicula
 puntaje: 1
+year: 2020
+director: Alice Filippi
+img: https://pics.filmaffinity.com/sul_piu_bello-501803430-large.jpg
 ---
-
-
-
-![En el mejor momento](https://pics.filmaffinity.com/sul_piu_bello-501803430-large.jpg)
-
-Puntaje: 1/5 
-Año: 2020
-Director: Alice Filippi
 
 Una chica que se obsesiona a un nivel extremo por conquistar a un chico. 
 

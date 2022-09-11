@@ -1,19 +1,14 @@
 ---
 layout: post
-title:  "Los otros"
+title: Los otros
 tags: pelicula
 puntaje: 2
+year: 2001
+director: Alejandro Amenábar
+img: https://pics.filmaffinity.com/Los_otros-255113377-large.jpg
 ---
 
-
-
-![Los otros](https://pics.filmaffinity.com/Los_otros-255113377-large.jpg)
-
-Puntaje: 2/5 
-Año: 2001
-Director: Alejandro Amenábar
-
-Una película mal ejecutada: es lenta y lo mejor pasa en los últimos minutos en un final inesperado.
+ Una película mal ejecutada: es lenta y lo mejor pasa en los últimos minutos en un final inesperado.
 
 Utiliza recursos básicos para intentar asustar al espectador y las interpretaciones de los personajes, a veces, se sienten rígidas y sobreactuadas.
 

@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Mid90s"
+title:  Mid90s
 tags: pelicula
 puntaje: 5
+year: 2018
+director: Jonah Hill 
+img: https://pics.filmaffinity.com/En_los_90-167767375-large.jpg
 ---
-
-
-
-![Mid90s](https://pics.filmaffinity.com/En_los_90-167767375-large.jpg)
-
-Puntaje: 5/5 
-Año: 2018
-Director: Jonah Hill
 
 Puede resultar fácil representar en una película la estética de una determinada década, lo difícil es hacerlo con diálogos, lenguaje, situaciones, momentos, y todo lo que vaya más allá de lo visual en sí.
 

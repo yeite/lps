@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Culpable"
+title: Culpable
 tags: pelicula
 puntaje: 2
+year: 2021
+director: Antoine Fuqua
+img: https://es.web.img3.acsta.net/pictures/21/09/17/18/23/1186009.jpg
 ---
-
-
-
-![Culpable](https://es.web.img3.acsta.net/pictures/21/09/17/18/23/1186009.jpg)
-
-Puntaje: 2/5 
-Año: 2021
-Director: Antoine Fuqua
 
 Una película con un guión que ya deja de ser sorprendente porque simplemente lo vimos en varias películas.
 

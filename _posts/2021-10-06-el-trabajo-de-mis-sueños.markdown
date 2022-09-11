@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "El trabajo de mis sueños"
+title:  El trabajo de mis sueños
 tags: pelicula
 puntaje: 3
+year: 2020
+director: Philippe Falardeau
+img: https://mx.web.img3.acsta.net/pictures/21/06/03/00/46/4958495.jpg
 ---
-
-
-
-![El trabajo de mis sueños](https://mx.web.img3.acsta.net/pictures/21/06/03/00/46/4958495.jpg)
-
-Puntaje: 3/5 
-Año: 2020
-Director: Philippe Falardeau
 
 Una encantadora aspirante a escritora que comienza a dar sus primeros pasos en el mundo laboral. 
 

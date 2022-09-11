@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "El Colapso"
+title:  El Colapso
 tags: serie
 puntaje: 3
+year: 2019
+director: Les Parasites
+img: https://static.filmin.es/images/media/29067/3/poster_0_3.png
 ---
-
-
-
-![El colapso](https://static.filmin.es/images/media/29067/3/poster_0_3.png)
-
-Puntaje: 3/5 
-Año: 2019
-Director: Les Parasites
 
 Serie francesa de ocho capítulos que, a medida que transcurre, todo se vuelve más desesperanzador y caótico. ¿Serie premonitoria? 
 

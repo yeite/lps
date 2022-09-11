@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "El secreto de sus ojos"
+title: El secreto de sus ojos
 tags: pelicula
 puntaje: 5
+year: 2009
+director: 2009
+img: https://pics.filmaffinity.com/El_secreto_de_sus_ojos-941994601-large.jpg
 ---
-
-
-
-![El secreto de sus ojos](https://pics.filmaffinity.com/El_secreto_de_sus_ojos-941994601-large.jpg)
-
-Puntaje: 5/5 
-Año: 2009
-Director: Juan José Campanella
 
 Argentina hasta el momento ha ganado dos Oscar a mejor película y uno de ellos es por este film. El final es una sorpresa.
 

@@ -3,15 +3,10 @@ layout: post
 title:  "Remodelaciones de moteles"
 tags: serie
 puntaje: 3
+year: 2021
+director: Sarah Sklash, April Brown
+img: https://flxt.tmsimg.com/assets/p20389831_b_v13_ab.jpg
 ---
-
-
-
-![Remodelaciones de moteles](https://flxt.tmsimg.com/assets/p20389831_b_v13_ab.jpg)
-
-Puntaje: 3/5 
-Año: 2021
-Director: Sarah Sklash, April Brown
 
 Dos amigas remodelan un viejo motel de playa, con diseños para ser *instagrameados*. 
 

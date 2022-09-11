@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Fue la manos De Dios"
+title:  Fue la manos De Dios
 tags: pelicula
 puntaje: 4
+year: 2021
+director: Paolo Sorrentino
+img: https://pics.filmaffinity.com/Fue_la_mano_de_Dios-794400915-mmed.jpg
 ---
-
-
-
-![Fue la mano de Dios](https://pics.filmaffinity.com/Fue_la_mano_de_Dios-794400915-mmed.jpg)
-
-Puntaje: 4/5 
-Año: 2021
-Director: Paolo Sorrentino
 
 Paolo Sorrentino es de los grandes directores de cines de la actualidad. Su capacidad creativa se refleja en la narrativa visual al momento de ver los hermosos fotogramas de sus películas.
 

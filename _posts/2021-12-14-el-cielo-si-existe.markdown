@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "El cielo si existe"
+title:  El cielo si existe
 tags: pelicula
 puntaje: 2
+year: 2014
+director: Randall Wallace
+img: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSghzIOj2BRqcLBuWl-awpX8zNeQStcX_J6iZOlpekxz5ukIGhJ
 ---
-
-
-
-![El cielo si existe](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSghzIOj2BRqcLBuWl-awpX8zNeQStcX_J6iZOlpekxz5ukIGhJ)
-
-Puntaje: 2/5 
-Año: 2014
-Director: Randall Wallace
 
 El cielo si existe, basado en la novela homónima, relata la historia basada en hechos reales sobre un niño que dice haber estado en el cielo y volvió para contarlo.
 

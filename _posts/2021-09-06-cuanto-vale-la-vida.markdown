@@ -3,15 +3,10 @@ layout: post
 title:  "¿Cuánto vale la vida?"
 tags: pelicula
 puntaje: 2
+year: 2020
+director: Sara Colangelo
+img: https://www.infobae.com/new-resizer/9qT7u8nD4hY7DEOUOzKUhcq6asQ=/768x1024/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4FSB7M2G3BCPXOZIVB5I3ONB4M.jpg
 ---
-
-
-
-![¿Cuánto vale la vida?](https://www.infobae.com/new-resizer/9qT7u8nD4hY7DEOUOzKUhcq6asQ=/768x1024/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4FSB7M2G3BCPXOZIVB5I3ONB4M.jpg)
-
-Puntaje: 2/5 
-Año: 2020
-Director: Sara Colangelo
 
 La película intenta sin éxito impregnar al protagonista y al film un aura de epicidad. 
 
