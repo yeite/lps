@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Matrix resurrection"
+title: Matrix resurrection
 tags: pelicula
 puntaje: 3
+year: 2021
+director: Lana Wachowski
+img: https://pics.filmaffinity.com/the_matrix_resurrections-746425788-large.jpg
 ---
-
-
-
-![Matrix 4 resurrection](https://pics.filmaffinity.com/the_matrix_resurrections-746425788-large.jpg)
-
-Puntaje: 3/5 
-Año: 2021
-Director: Lana Wachowski
 
 Fui viendo la saga de Matrix mientras iban saliendo cada una de las películas. No recuerdo haberlas visto nuevamente tiempo después, pero los recuerdos que tengo de la película fueron más que satisfactorios. También recuerdo toda la revolución que supuso tanto en la forma de filmar películas (ese modo de mostrar las peleas no se había visto, al menos a nivel masivo), como en la sociedad en sí. Por primera vez una película nos había hecho dudar y cuestionar nuestra existencia a gran parte de la población sobre si realmente estamos siendo dueños de nuestro destino. 
 

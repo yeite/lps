@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Schumacher"
+title:  Schumacher
 tags: pelicula
 puntaje: 3
+year: 2021
+director: Hans-Bruno Kammertöns, Vanessa Nöcker, Michael Wech
+img: https://pics.filmaffinity.com/schumacher-632971180-large.jpg
 ---
-
-
-
-![Schumacher](https://pics.filmaffinity.com/schumacher-632971180-large.jpg)
-
-Puntaje: 3/5 
-Año: 2021
-Director: Hans-Bruno Kammertöns, Vanessa Nöcker, Michael Wech
 
 Un documental sin demasiados tintes heroicos. Donde aparece, su esposa y corredores importantes hablando sobre él.
 

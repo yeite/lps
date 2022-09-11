@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "¡Eso que tú haces!"
+title: ¡Eso que tú haces!
 tags: pelicula
 puntaje: 3
+year: 1996
+director: Tom Hanks
+img: https://pics.filmaffinity.com/that_thing_you_do-966807383-large.jpg
 ---
-
-
-
-![¡Eso que tú haces!](https://pics.filmaffinity.com/that_thing_you_do-966807383-large.jpg)
-
-Puntaje: 3/5 
-Año: 1996
-Director: Tom Hanks
 
 Primera película escrita y dirigida por Tom Hanks.
 

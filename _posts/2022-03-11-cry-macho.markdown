@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Cry Macho"
+title: Cry Macho
 tags: pelicula
 puntaje: 1
+year: 2021
+director: Clint Eastwood
+img: https://pics.filmaffinity.com/Cry_Macho-324324840-large.jpg
 ---
-
-
-
-![Cry Macho](https://pics.filmaffinity.com/Cry_Macho-324324840-large.jpg)
-
-Puntaje: 1/5 
-Año: 2021
-Director: Clint Eastwood
 
 Clint es un gran director y actor pero sorprendentemente esta película dirigida y actuada por él tiene ideas muy vagas. 
 
