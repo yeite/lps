@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Granizo"
+title: Granizo
 tags: pelicula
 puntaje: 2
+year: 2022
+director: Marcos Carnevale
+img: https://www.cinevistablog.com/wp-content/uploads/2022/03/resena-granizo-tibia-comedia-sobre-la-cultura-de-la-cancelacion-y-el-cambio-climatico.jpg
 ---
-
-
-
-![Granizo](https://www.cinevistablog.com/wp-content/uploads/2022/03/resena-granizo-tibia-comedia-sobre-la-cultura-de-la-cancelacion-y-el-cambio-climatico.jpg)
-
-Puntaje: 2/5 
-Año: 2022
-Director: Marcos Carnevale
 
 Granizo intenta acaparar mucho: ficción, drama, emoción y comedia, pero el que mucho abarca poco aprieta.
 

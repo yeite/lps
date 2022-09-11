@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Sempre più bello"
+title:  Sempre più bello
 tags: pelicula
 puntaje: 4
+year: 2022
+director: Claudio Norza
+img: http://www.impawards.com/intl/italy/2022/posters/sempre_piu_bello.jpg
 ---
-
-
-
-![Sempre pie bello](http://www.impawards.com/intl/italy/2022/posters/sempre_piu_bello.jpg)
-
-Puntaje: 4/5 
-Año: 2022
-Director: Claudio Norza
 
 Esta trilogía fue superándose entrega tras entrega. Una película que te mantiene atrapado, con momentos tensos, de llanto pero también de risa. Si bien el final no esta mal, quizás le faltaba un mejor cierre, al menos post créditos.
 

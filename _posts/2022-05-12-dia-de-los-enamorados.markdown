@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Día de los enamorados"
+title: Día de los enamorados
 tags: pelicula
 puntaje: 3
+year: 2010
+director: Garry Marshall
+img: https://pics.filmaffinity.com/valentine_s_day-100147005-large.jpg
 ---
-
-
-
-![Día de los enamorados](https://pics.filmaffinity.com/valentine_s_day-100147005-large.jpg)
-
-Puntaje: 3/5 
-Año: 2010
-Director: Garry Marshall
 
 Un clásica película romántica cargada con un desfile de actores de renombre.
 

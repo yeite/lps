@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Amor y Gelato"
+title: Amor y Gelato
 tags: pelicula
 puntaje: 3
 year: 2022

@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Minari"
+title: Minari
 tags: pelicula
 puntaje: 4
+year: 2020
+director: Lee Isaac Chung
+img: https://pics.filmaffinity.com/minari-400403338-large.jpg
 ---
-
-
-
-![Minari](https://pics.filmaffinity.com/minari-400403338-large.jpg)
-
-Puntaje: 4/5 
-Año: 2020
-Director: Lee Isaac Chung
 
 Sencillo relato del sueño americano encarnada desde una perspectiva de familia coreana que decide mudarse al campo para cosechar y vender sus productos. 
 
