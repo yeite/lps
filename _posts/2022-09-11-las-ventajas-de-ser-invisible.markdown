@@ -5,7 +5,7 @@ tags: pelicula
 puntaje: 5
 year: 2012
 director: Stephen Chbosky
-img: https://static.wikia.nocookie.net/doblaje/images/a/ab/Las-ventajas-de-ser-invisible-poster.jpg/revision/latest?cb=20120730174530&path-prefix=es
+img: https://pics.filmaffinity.com/the_perks_of_being_a_wallflower-797421328-large.jpg
 ---
 
 Melancolía y la dureza difícil de experimentar para un niño abusado por su tía. 
