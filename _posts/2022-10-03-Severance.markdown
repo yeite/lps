@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Severance
-tags: Serie
+tags: serie
 puntaje: 3
 year: 2022
 director: Ben Stiller; Aoife McArdle
