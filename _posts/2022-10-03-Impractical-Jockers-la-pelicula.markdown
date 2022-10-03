@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Impractical Jokers: La película
+title: "Impractical Jokers: la película"
 tags: pelicula
 puntaje: 3
 year: 2020
