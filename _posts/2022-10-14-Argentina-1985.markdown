@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Argentina, 1985"
+tags: pelicula
+puntaje: 4
+year: 2022
+director: Santiago Mitre
+img: https://pics.filmaffinity.com/argentina_1985-430372554-large.jpg
+---
+
+Una historia narrativa, basada en hechos reales sobre los acontecimientos a los juicios realizados en el año 1985 a dictadores de la última dictadura militar sucedida en Argentina. Actuaciones destacables.
