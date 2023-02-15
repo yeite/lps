@@ -5,7 +5,7 @@ tags: pelicula
 puntaje: 5
 year: 1991
 director: John Ford
-img: https://www.filmaffinity.com/images/loading-small.gif
+img: https://pics.filmaffinity.com/how_green_was_my_valley-901792506-large.jpg
 ---
 
 Para hacer buenas películas no hace falta guiones extraordinarios ni efectos especiales. Lo difícil es hacer buenas películas con guiones ordinarios y este film es el claro ejemplo.

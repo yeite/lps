@@ -5,7 +5,7 @@ tags: pelicula
 puntaje: 3
 year: 1991
 director: Barry Shils
-img: https://www.filmaffinity.com/images/imghovnav_next.png
+img: https://pics.filmaffinity.com/motorama-267704829-large.jpg
 ---
 
 Una película con un guion por demás extraño.
