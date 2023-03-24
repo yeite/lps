@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Amadeus"
+tags: pelicula
+puntaje: 5
+year: 1984
+director: Milos Forman
+img: https://www.filmaffinity.com/images/loading-small.gif
+---
+
+Tiene un buen ritmo las tres horas que dura la película. Tan bien logrado esta que uno nunca atina a mirar el reloj.
+
+Al ver el film, da la sensación de estar en paralelo con una ópera tragicómica. Esta, a pesar de ser dramática, tiene un tono cómico en casi todo su desarrollo.
+
+Mostrando la complejidad de sentimientos del ser humano es una obra perfecta que se basa en hechos no tan verídicos o al menos, no confirmados sobre la rivalidad de Mozart y Salieri. 
