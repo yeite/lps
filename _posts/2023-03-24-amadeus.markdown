@@ -5,7 +5,7 @@ tags: pelicula
 puntaje: 5
 year: 1984
 director: Milos Forman
-img: https://www.filmaffinity.com/images/loading-small.gif
+img: https://pics.filmaffinity.com/amadeus-718368517-large.jpg
 ---
 
 Tiene un buen ritmo las tres horas que dura la película. Tan bien logrado esta que uno nunca atina a mirar el reloj.
