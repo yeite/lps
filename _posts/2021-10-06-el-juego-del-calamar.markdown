@@ -5,7 +5,7 @@ tags: serie
 puntaje: 3
 year: 2021
 director: Hwang Dong-hyuk
-img: https://pics.filmaffinity.com/squid_game_tv_series-678089983-large.jpg
+img: https://pics.filmaffinity.com/squid_game-688981365-large.jpg
 ---
 
 ¿Podría ser una excelente película de dos horas? Sí.
