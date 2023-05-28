@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Cocoon"
+tags: pelicula
+puntaje: 4
+year: 2010
+director: Manish Pandey
+img: https://pics.filmaffinity.com/senna-725854936-large.jpg
+---
+
+Un documental sin maquillaje. 
+
+Muestra la fricción que tenía con Alain Prost, la preferencia del presidente de la FIA, Jean-Marie Balestre por su rival y su lado humano.
+
+Una linda crónica para recorrer y conocer su carrera profesional de uno de los corredores de Formula 1 más emblemáticos de todos los tiempos.

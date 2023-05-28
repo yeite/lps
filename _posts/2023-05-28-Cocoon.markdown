@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Cocoon"
+tags: pelicula
+puntaje: 2
+year: 1985
+director: Ron Howard
+img: https://pics.filmaffinity.com/cocoon-589058076-large.jpg
+---
+
+Una torpeza que desencadena en adrenalina sucede a diez minutos del final de la película.
+
+Casi no hay fricciones. El problema de esta película es que no hay malos y la misma funciona como un relato relajado.
+
+Los efectos especiales de este tipo de película no suelen envejecer de la mejor manera.
