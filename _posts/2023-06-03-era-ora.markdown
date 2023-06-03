@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Era ora"
+tags: pelicula
+puntaje: 3
+year: 2023
+director: Alessandro Aronadio
+img: https://pics.filmaffinity.com/era_ora-658188709-large.jpg
+---
+
+Un film italiano que posee la misma temática que la película Click. Desde el primer momento sabemos que va a suceder en la película, pero sin embargo queremos seguir mirándola.
