@@ -8,7 +8,7 @@ director: Matt Reeves
 img: https://pics.filmaffinity.com/the_batman-449856406-large.jpg
 ---
 
-En esta película un podemos ver un Batman oscuro, desganado y débil. 
+En esta película veremos un Batman oscuro, desganado y débil. 
 
 En esta entrega la lucha principal es con El Acertijo, muy bien personificado. 
 

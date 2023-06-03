@@ -5,7 +5,7 @@ tags: pelicula
 puntaje: 2
 year: 2019
 director: Danny Boyle
-img: https://pics.filmaffinity.com/division_palermo-155890667-large.jpg
+img: https://pics.filmaffinity.com/yesterday-541518094-large.jpg
 ---
 
 La película funciona como un tributo a los Beatles, que termina en una comedia romántica con bastante cliché, previsible y con un final mal resuelto. Una de las películas más flojas de su director.
