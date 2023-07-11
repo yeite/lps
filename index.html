@@ -14,7 +14,7 @@ layout: default
         <br/>
 <p>🤔 ¿No encontrás donde ver la película?<a href="https://www.buscala.tv/" target="_blank"> buscala.tv</a></p>
 	    
-        {{ site.posts | size }}
+        
     
     </div>
 
@@ -43,7 +43,12 @@ layout: default
 
 
 <section class="posts" id="Blog">
-    <h2>Últimas reseñas<small><a href="{{ site.url }}{{ site.baseurl }}/archive">Ver todas</a></small></h2>
+    <h2>Últimas reseñas</h2>
+    <p>Cantidad de películas y series reseñadas hasta el momento:{{ site.posts | size }}
+         <small><a href="{{ site.url }}{{ site.baseurl }}/archive">Ver la lista completa</a></small>
+    </p>
+    
+    
     <ul>
         {%- for post in site.posts limit: site.number_of_posts -%}
         <li>
