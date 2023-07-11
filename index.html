@@ -43,14 +43,14 @@ layout: default
 
 
 <section class="posts" id="Blog">
-    <h2>Últimas reseñas
+    <h2>Últimas reseñas </h2>
+
         
  <br>
-        <small style="font-weight: 400">Un total de {{ site.posts | size }} películas y series reseñadas hasta el momento.</small><small><a href="{{ site.url }}{{ site.baseurl }}/archive">Ver todas</a></small>
+       <p><small>Un total de {{ site.posts | size }} películas y series reseñadas hasta el momento.<a href="{{ site.url }}{{ site.baseurl }}/archive">Ver todas</a></small></p> 
         
         
-    </h2>
-
+   
     
     <ul>
         {%- for post in site.posts limit: site.number_of_posts -%}
