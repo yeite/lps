@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Arnold"
+tags: pelicula
+puntaje: 5
+year: 2023
+director: Lesley Chilcott
+img: https://pics.filmaffinity.com/arnold-333034999-large.jpg
+---
+
+Un documental inspirador, en primera persona, de Arnold Schwarzenegger.
+
+La serie se divide en tres episodios: su infancia en Austria y sus inicios en el fisicoculturismo, su carrera actoral y su incursión en la política hasta llegar a ser gobernador de California.
