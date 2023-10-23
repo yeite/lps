@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "Halloween V"
+title: "Halloween: H20. Veinte años después"
 tags: pelicula
-puntaje: 3
-year: 1989
-director: Dominique Othenin-Girard
-img: https://pics.filmaffinity.com/halloween_5_the_revenge_of_michael_myers-431909290-large.jpg
+puntaje: 2
+year: 1998
+director: Steve Miner
+img: https://pics.filmaffinity.com/halloween_h20_20_years_later_aka_halloween_7-781909356-large.jpg
 ---
 
-En esta entrega aparece una sobrina de Michael Myers, que tiene una conexión telepática con él.
+La película dura poco más de 1h 20 m y es llevadera, sin embargo la interpretación de Michel Mayers parece algo extraña y ajena a él mismo, con un comportamiento distinto a las ediciones anteriores.
 
-Muertes predecibles que queremos que sucedan. La película logra escenas vertiginosas.
-
-Es poco creíble que el protagonista sea invencible: aveces muy lento para matar, otras demasiado rápido para aparecerse. 
+En esta entrega, Michel Mayers intenta matar a su hermana.
 
 
 

@@ -14,10 +14,17 @@ Sería injusto comparar esta película de 1978 con la vara del cine de terror de
 
 Películas que componen la saga:
 
-- [Halloween]({{ site.baseurl }}/2021/10/01/halloween)
+- [Halloween]({{ site.baseurl }}/2021/10/01/halloween) (1978)
 
-- [Halloween II]({{ site.baseurl }}/2021/11/05/halloween-ii)
+- [Halloween II]({{ site.baseurl }}/2021/11/05/halloween-ii) (1981)
 
-- [Halloween 4]({{ site.baseurl }}/2022/05/12/halloween-4)
+- [Halloween 4]({{ site.baseurl }}/2022/05/12/halloween-4) (1988)
+
+- [Halloween V]({{ site.baseurl }}/2022/05/12/halloween-4) (1989)
+
+- [Halloween VI]({{ site.baseurl }}/2023/10/23/Halloween-VI-La-maldicion-de-Michael-Myers)(1995)
+
+- [Halloween H20]({{ site.baseurl }}/2023/10/23/Halloween-H20) (1998)
 
   
+
