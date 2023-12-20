@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Sly"
+tags: pelicula
+puntaje: 4
+year: 2023
+director: Thom Zimny
+img: https://pics.filmaffinity.com/sly-322096027-large.jpg
+---
+
+Biografía de Sylvester Stallone contada en primera persona que recorre sus obras cinematográficas más emblemáticas: Rocky y Rambo. En esta se establece una especie de paralelismo entre su vida personal, su rivalidad con su padre, y su vida profesional como actor.
