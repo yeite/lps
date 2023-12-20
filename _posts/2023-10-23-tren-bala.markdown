@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Tren Bala"
+tags: pelicula
+puntaje: 4
+year: 2022
+director: David Leitch
+img: https://pics.filmaffinity.com/bullet_train-757922812-large.jpg
+---
+
+Una película de acción y cómica, con héroes y villanos un tanto extravagantes, donde todo sucede en un tren de viaje a Tokio. Con actuación esporádica de Bad Bunny.
+
+Divertida y llevadera para una película de acción original.
