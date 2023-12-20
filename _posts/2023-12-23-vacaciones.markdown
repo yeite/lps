@@ -4,7 +4,7 @@ title: "Vacaciones"
 tags: pelicula
 puntaje: 2
 year: 2015
-director: John Francis Daley, Jonathan M. Goldstein
+director: John Francis Daley; Jonathan M. Goldstein
 img: https://pics.filmaffinity.com/vacation-662481068-large.jpg
 ---
 

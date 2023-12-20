@@ -4,7 +4,7 @@ title: El secreto de sus ojos
 tags: pelicula
 puntaje: 5
 year: 2009
-director: 2009
+director: Juan Jose Campanella
 img: https://pics.filmaffinity.com/El_secreto_de_sus_ojos-941994601-large.jpg
 ---
 
