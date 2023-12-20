@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Barbie"
+tags: pelicula
+puntaje: 4
+year: 2023
+director: Greta Gerwig
+img: https://pics.filmaffinity.com/barbie-295661697-large.jpg
+---
+
+Adaptada a los tiempos actuales, graciosa y desafiante. Una película con espíritu. Varios guiños a películas icónicas.
