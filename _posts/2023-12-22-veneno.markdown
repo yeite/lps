@@ -5,7 +5,7 @@ tags: pelicula
 puntaje: 3
 year: 2023
 director: Wes Anderson
-img: https://pics.filmaffinity.com/vacation-662481068-large.jpg
+img: https://pics.filmaffinity.com/poison-115595282-large.jpg
 ---
 
 Un nuevo corto de Wes Anderson. La particularidad de estos pequeños relatos es como se desarrolla el film: los actores siempre mirando a cámara casi como si lo estuviera leyendo del libro.
