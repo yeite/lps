@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Idocracy"
+tags: pelicula
+puntaje: 3
+year: 2006
+director: Mike Judge
+img: https://pics.filmaffinity.com/idiocracy-910754497-large.jpg
+---
+
+Una película exageradamente tonta y divertida, llevando a los extremos la estupidez humana.
+
+El hombre más mediocre es parte de un experimento donde es congelado y despierta en el futuro. Para su sorpresa descubre que es el hombre más inteligente del planeta.
