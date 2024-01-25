@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Vivir"
+tags: pelicula
+puntaje: 2
+year: 2022
+director: Oliver Hermanus
+img: https://pics.filmaffinity.com/living-201410318-large.jpg
+---
+
+Es casi un capricho del director ambiente la película en una época para tratar la genética de un hombre que pocos meses le quedan de vida al ser diagnosticado con una enfermedad terminal.
+
+Remake Inglesa del film japonés Ikiru de 1952.
