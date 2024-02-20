@@ -14,8 +14,9 @@ Una película con un excelente guión. Muchas acción. La película que dio comi
 
 Películas que componen la saga:
 
-- [Rápidos y furiosos 4]({{ site.baseurl }}/2023/12/12/rapido-y-furioso) (2009)
+- [Rápidos y furiosos 4]({{ site.baseurl }}/2023/12/12/rapidos-y-furiosos-4) (2009)
 
 - [Rápido y furioso 5]({{ site.baseurl }}/2024/02/20/rapidos-y-furiosos-5in control) (2011)
 
   
+
