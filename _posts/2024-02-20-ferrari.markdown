@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ferrari"
+tags: pelicula
+puntaje: 2
+year: 2023
+director: Michael Mann
+img: https://pics.filmaffinity.com/ferrari-253622060-large.jpg
+---
+
+Bastante pobre. Seguramente tenía mucho más para contar en la historia de Ferrari pero se centro en los amores de Enzo y en la última edición de la competición de la Mille Miglia, ganada por Ferrari.

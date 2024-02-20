@@ -13,3 +13,4 @@ La película arranca con acción. Buena señal. Al fin una trama con Brian y Tor
 Películas que componen la saga:
 
 - [Rápido y furioso]({{ site.baseurl }}/2023/06/03/rapido-y-furioso) (2001)
+- [Rápido y furioso 5]({{ site.baseurl }}/2024/02/20/rapidos-y-furiosos-5in control) (2011)
