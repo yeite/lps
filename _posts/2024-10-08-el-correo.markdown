@@ -1,0 +1,11 @@
+---
+layout: post
+title: "El correo"
+tags: pelicula
+puntaje: 3
+year: 2024
+director: Daniel Calparsoro
+img: https://pics.filmaffinity.com/el_correo-686123937-large.jpg
+---
+
+Película española, basada en una historia real. Corrupción, políticos y mafia. Para entender la crisis económica española, que se comenzó a gestar algunos años antes, previo a las estallido de la crisis inmobiliaria del 2008.
