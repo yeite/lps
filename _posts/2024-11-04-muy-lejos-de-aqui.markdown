@@ -2,7 +2,7 @@
 layout: post
 title: "Muy Lejos de aquí"
 tags: pelicula
-puntaje: 3
+puntaje: 2
 year: 2023
 director: Vanessa Jopp
 img: https://pics.filmaffinity.com/faraway-109095427-large.jpg
