@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Simón"
+tags: pelicula
+puntaje: 4
+year: 2023
+director: Diego Vicentini
+img: https://pics.filmaffinity.com/simon-798533652-large.jpg
+---
+
+Una película basada en hechos reales sobre la dictadura de Venezuela. 
