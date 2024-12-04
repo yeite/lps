@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Senna"
+tags: serie
+puntaje: 5
+year: 2024
+director: Vicente Amorim, Julia Rezende
+img: https://pics.filmaffinity.com/senna-725047039-large.jpg
+---
+
+Una miniserie que rinde un acertado homenaje a uno de los pilotos más importantes de la Fórmula 1. 
+
+Ocho capítulos recorren la vida el piloto. Desde sus inicios, hasta el final de su carrera. Tocando los ámbitos profesionales, como de su vida privada.
+
+Un trabajo excepcional escenográfico en lo que fue la reconstrucción de los distintos escenarios que abarcan las tres décadas del piloto: 70, 80 y 90.

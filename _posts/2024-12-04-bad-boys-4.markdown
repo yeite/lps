@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Bad Boys 4"
+tags: pelicula
+puntaje: 3
+year: 2024
+director: Adil El Arbi, Bilall Fallah
+img: https://pics.filmaffinity.com/bad_boys_ride_or_die-651037313-large.jpg
+---
+
+Una entrega más de esta película de con mucha acción, mezclado con el humor que se mantiene a lo largo de la film. Divertida de ver.
