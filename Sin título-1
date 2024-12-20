@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links Interesantes</title>
+</head>
+<body>
+    <h1>Links Interesantes</h1>
+
+    <div id="links-list"></div>
+
+    <script>
+        // Función para cargar el archivo JSON
+        fetch('links.json')
+            .then(response => response.json())
+            .then(data => {
+                // Mostrar los links
+                const linksList = document.getElementById("links-list");
+                data.forEach(link => {
+                    const linkItem = document.createElement("div");
+                    linkItem.innerHTML = `
+                        <p><a href="${link.url}" target="_blank">${link.titulo}</a></p>
+                        <p>Fecha: ${link.fecha}</p>
+                        <p>Hashtags: ${link.hashtags.join(", ")}</p>
+                    `;
+                    linksList.appendChild(linkItem);
+                });
+            });
+    </script>
+</body>
+</html>

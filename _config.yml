@@ -1,7 +1,7 @@
-site: LPS
-title: Libros, películas y series
+site: Películas y Series
+title: Películas y series
 description: >-
-  En esta página vas a encontrar mis reseñas sobre libros, películas y series.
+  En esta página vas a encontrar mis reseñas sobre películas y series.
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: America/Argentina/Buenos_Aires
@@ -10,11 +10,11 @@ data-theme: dark # default theme "dark" | "light"
 
 author:
   name: Matias
-  bio: Microreseñas sobre libros, películas y series.
-  username: yeite # general username
+  bio: Microreseñas sobre películas y series.
+  username: matizeta # general username
   github:  # github username
-  twitter: matiasrz_ # twitter username
-  email: your-email@email.com # email adress
+  mastodon: matiasrz_ # twitter username
+  email: hola@matizeta.com # email adress
 
 # URL settings
 url: "https://yeite.github.io" # Domain Name of host. [username].github.io for github pages
