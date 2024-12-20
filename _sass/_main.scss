@@ -370,6 +370,10 @@ main {
     .fa {
       font-size: 1.3rem;
       color: #a9a9a9;
+      
+      .fab {
+      font-size: 1.3rem;
+      color: #a9a9a9;
 
       &:hover {
         color: darken(#a9a9a9, 25%);
