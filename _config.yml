@@ -9,11 +9,11 @@ repo: https://github.com/yeite/lps # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: Matias
+  name: matizeta
   bio: Microreseñas sobre películas y series.
   username: matizeta # general username
   github:  # github username
-  mastodon: matiasrz_ # twitter username
+  mastodon: masto.es/@matizeta # mastodón username
   email: hola@matizeta.com # email adress
 
 # URL settings
