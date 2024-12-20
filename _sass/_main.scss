@@ -364,21 +364,10 @@ main {
   display: flex;
   justify-content: center;
   position: initial;
-
+  
   .social-footer-icons {
      
-    .fa {
-      font-size: 1.3rem;
-      color: #a9a9a9;
-      
-      
-      &:hover {
-        color: darken(#a9a9a9, 25%);
-        transition: color 0.3s ease-in;
-      }
-    } 
-      
-      .fab {
+     .fa {
       font-size: 1.3rem;
       color: #a9a9a9;
       
@@ -388,11 +377,8 @@ main {
         transition: color 0.3s ease-in;
       }
     }
-    
-    
-  
   }
-
+}
 
 @media screen and (max-width: 45rem) {
 	header li {
