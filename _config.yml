@@ -23,7 +23,7 @@ permalink: pretty
 
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 10
 
 
 markdown: kramdown
