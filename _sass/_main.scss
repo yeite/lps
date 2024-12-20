@@ -377,6 +377,21 @@ main {
         transition: color 0.3s ease-in;
       }
     }
+    
+     .fab {
+      font-size: 1.3rem;
+      color: #a9a9a9;
+      
+      
+      &:hover {
+        color: darken(#a9a9a9, 25%);
+        transition: color 0.3s ease-in;
+      }
+    }
+    
+    
+    
+    
   }
 }
 
