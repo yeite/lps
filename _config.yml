@@ -87,10 +87,3 @@ relative_links:
   collections: false
 
 
-
-
-jekyll-archives:
-  enabled:
-    - posts
-  layout: default
-  permalinks: /year/:year/
