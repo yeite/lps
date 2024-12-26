@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /year/:year/
+---
+
+<h1>Publicaciones del Año {{ page.year }}</h1>
+<ul>
+  {% assign year_posts = site.posts | where: "year", page.year %}
+  {% for post in year_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
