@@ -61,6 +61,7 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
+    
   
 defaults:
   -
@@ -86,3 +87,11 @@ relative_links:
   collections: false
 
 
+gems:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - posts
+  layout: default
+  permalinks: /year/:year/
