@@ -87,8 +87,7 @@ relative_links:
   collections: false
 
 
-gems:
-  - jekyll-archives
+
 
 jekyll-archives:
   enabled:
