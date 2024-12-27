@@ -1,0 +1,11 @@
+---
+layout: post
+title: "CTRL"
+tags: pelicula
+puntaje: 5
+year: 2024
+director: Vikramaditya Motwane
+img: https://pics.filmaffinity.com/ctrl-357922747-large.jpg
+---
+
+Un llamado de atención a los límites que debemos ponerle a la IA. Lo que parecía una drama romántico se convierte en un thriller informático. Una de las mejores películas de este 2024.
