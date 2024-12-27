@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Belfast"
+tags: pelicula
+puntaje: 4
+year: 2021
+director: Kenneth Branagh
+img: https://pics.filmaffinity.com/belfast-211713514-large.jpg
+---
+
+Un drama a modo de homenaje a las personas que vivieron la turbulenta época del 1960 en Irlanda del Norte, visto de la mirada de un niño. El film esta rodado casi enteramente en blanco y negro, con una banda sonora que eleva cada escena.  
+
+La película presenta momentos de tensión justa sin llegar a quebrar ese aura de sentimentalismo que envuelve a la película.
+
