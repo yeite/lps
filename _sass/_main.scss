@@ -783,14 +783,15 @@ $link-color: var(--link-color);
 
 .filtros{
   border: 1px solid;
-  background-color: mediumaquamarine;
+  padding: 5px;
+  border-radius: 15px;
   
 }
 
-.filtros a 
-{
+.filtros a{
   border: 1px solid;
-  
+    padding: 2px;
+  border-radius: 10px;
 }
 
 
