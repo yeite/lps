@@ -12,6 +12,15 @@ layout: default
 	    {{ site.description }}
          Conoce más sobre<a href="{{ site.url }}{{ site.baseurl }}/about"> este proyecto</a>.</p>
         <br>
+        
+                  <h3>
+        Un total de <strong>{{ site.posts | size }}</strong> películas y series reseñadas hasta el momento.<a href="{{ site.url }}{{ site.baseurl }}/archive">Ver la lista</a>
+        <br>
+    
+    </h3>
+  
+        
+        
 <p>🤔 ¿No encontrás donde ver la película?<a href="https://www.buscala.tv/" target="_blank"> buscala.tv</a></p>
 	    
         
@@ -34,7 +43,7 @@ layout: default
         </svg>
     </label>
 
-    <input type="search" id="search-input" placeholder="Escribe el nombre del libro, pelicula o serie" aria-label="Search">
+    <input type="search" id="search-input" placeholder="Escribe el nombre de la pelicula o serie" aria-label="Search">
     <ul id="search-results"></ul>
 </div>
 
@@ -45,11 +54,7 @@ layout: default
 <section class="posts" id="Blog">
     <h2>Últimas reseñas </h2> 
 
-    <h3>
-        Un total de <strong>{{ site.posts | size }}</strong> películas y series reseñadas hasta el momento.<a href="{{ site.url }}{{ site.baseurl }}/archive">Ver todas</a>
-        <br>
-    
-    </h3>
+
      
     
         
@@ -67,7 +72,7 @@ layout: default
 </section>
 
 <div class="filtros">
-    <p>Filtrar películas por</p>
+    <p>Filtrar películas por:</p>
     
  <a href="{{ site.url }}{{ site.baseurl }}/anos">Año</a>
 
