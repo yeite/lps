@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Yara"
+tags: pelicula
+puntaje: 3
+year: 2021
+director: Marco Tullio Giordana
+img: https://pics.filmaffinity.com/yara-938125236-large.jpg
+---
+
+La trama se aborda de manera concisa y sin relleno innecesario, de la manera más sobria posible. Es el caso en sí, por la ejecución y el desenvolvimiento de los hechos, que mantiene expectante al espectador. 
+
+Si bien es una película, ya que no aparecen personajes directos del caso, su forma narrativa tiene más de documental que de película en sí. 
+
+El caso sucedido en 2011, En Italia, en donde Una chica 13 años desaparece de regreso a su casa. 
