@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Amarcord"
+tags: pelicula
+puntaje: 3
+year: 1973
+director: Federico Fellini
+img: https://pics.filmaffinity.com/amarcord-119975263-large.jpg
+---
+
+Película que se enfoca en retratar varios individuos y sus vidas en un pueblo en la Italia fascista. Con una variedad de personajes y grupos de personas, casi caricaturesco. La película divaga por ellos, sin  darle un cierre. Por eso este film destaca más por la creación de sus escenarios, que por un guión como tal. 
+
