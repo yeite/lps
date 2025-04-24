@@ -52,32 +52,32 @@ layout: default
 
 
 <section class="posts" id="Blog">
-    <h2>Últimas reseñas </h2>
+    <h2>Últimas reseñas </h2> 
 
+
+     
+    
+        
+      
+   
+    
     <ul>
         {%- for post in site.posts limit: site.number_of_posts -%}
         <li>
-            <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
-            <p>Puntaje:
-                <div class="rating">
-                    {% assign max_rating = 5 %}
-                    {% assign full_stars = post.puntaje %}
-                    {% assign empty_stars = max_rating | minus: full_stars %}
-                    
-                    {% for i in (1..full_stars) %}
-                        <span class="star full">⭑</span> <!-- Estrella llena -->
-                    {% endfor %}
-                    
-                    {% for i in (1..empty_stars) %}
-                        <span class="star empty">⭒</span> <!-- Estrella vacía -->
-                    {% endfor %}
-                </div>
-            </p>
+		<a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
         </li>
         {% endfor %}
     </ul>
 </section>
 
+<div class="filtros">
+    <p>Filtrar películas por:</p>
+    
+ <a href="{{ site.url }}{{ site.baseurl }}/anos">Año</a>
+
+
+</div>
 
 
 
