@@ -19,23 +19,34 @@ layout: default
 <section class="posts" id="Blog">
     <h2>Todas las reseñas</h2>
     
-    
-    
     <h3>
         Un total de <strong>{{ site.posts | size }}</strong> películas y series reseñadas hasta el momento
     </h3>
-     
-    
     
     <ul>
         {% for post in site.posts %}
         <li>
-		<a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+            <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+           
+                <div class="rating">
+                    {% assign max_rating = 5 %}
+                    {% assign full_stars = post.puntaje %}
+                    {% assign empty_stars = max_rating | minus: full_stars %}
+                    
+                    {% for i in (1..full_stars) %}
+                        <span class="star full">⭑</span> <!-- Estrella llena -->
+                    {% endfor %}
+                    
+                    {% for i in (1..empty_stars) %}
+                        <span class="star empty">⭒</span> <!-- Estrella vacía -->
+                    {% endfor %}
+                </div>
+        
         </li>
         {% endfor %}
     </ul>
 </section>
+
 
 
 
