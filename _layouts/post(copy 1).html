@@ -26,29 +26,7 @@ layout: default
     
     
     <img src="{{ page.img }}" alt="{{ page.title }}"> 
-    
-  
-
-  <div class="rating">
-    <p>Puntaje:
-    {% assign max_rating = 5 %}
-    {% assign full_stars = page.puntaje %}
-    {% assign empty_stars = max_rating | minus: full_stars %}
-    
-    {% for i in (1..full_stars) %}
-      <span class="star full">⭑</span> <!-- Estrella llena -->
-    {% endfor %}
-    
-    {% for i in (1..empty_stars) %}
-      <span class="star empty">⭒</span> <!-- Estrella vacía -->
-    {% endfor %}
-  </p>
-  </div>
-
-  
-  
-  
-  
+    <p>Puntaje: {{ page.puntaje }}</p>
     <p>Año: <a href="{{ site.baseurl }}/year/{{ page.year }}">{{ page.year }}</a></p>
     <p>Director: {{ page.director }}</p>
     
