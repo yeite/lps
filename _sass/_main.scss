@@ -795,3 +795,14 @@ $link-color: var(--link-color);
 }
 
 
+.star {
+  font-size: 1.5em; /* Tamaño de las estrellas */
+  color: gold; /* Color de las estrellas llenas */
+  margin-right: 5px; /* Espacio entre las estrellas */
+}
+
+.star.empty {
+  color: #ccc; /* Color de las estrellas vacías */
+}
+
+
