@@ -41,7 +41,8 @@ html[data-theme="light"] {
 	--dark-text-color: #393e46;
 	--link-color: rgb(50, 87, 209);
 	--code-bg-color: rgb(245, 245, 245);
-    .star: rgb(50, 87, 209);
+   --star-color: rgb(50, 87, 209);
+
 
 	background-color: rgb(255, 255, 255);
 
@@ -102,6 +103,7 @@ html[data-theme="dark"] {
 	--main-text-color: #EAEAEA;
 	--dark-text-color: rgb(36, 38, 42);
 	--link-color: rgb(255, 89, 125);
+  --star-color: rgb(255, 89, 125);
 	--code-bg-color: rgb(36, 38, 42);
 	background-color: rgb(19, 20, 24);
 
@@ -797,10 +799,11 @@ $link-color: var(--link-color);
 
 
 .star {
-  font-size: 1em; /* Tamaño de las estrellas */
-  color: #f25677; /* Color de las estrellas llenas */
-  margin-right: 2px; /* Espacio entre las estrellas */
+  color: var(--star-color);
+  font-size: 1.2em; /* o el tamaño que prefieras */
 }
+
+
 
 .star.empty {
   color: #ccc; /* Color de las estrellas vacías */
