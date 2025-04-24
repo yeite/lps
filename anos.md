@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "00 Lista de Años"
+title: "Películas y series por año"
 permalink: /anos/
 ---
 
