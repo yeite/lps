@@ -58,7 +58,7 @@ layout: default
         {%- for post in site.posts limit: site.number_of_posts -%}
         <li>
             <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
-            <p>Puntaje:
+            
                 <div class="rating">
                     {% assign max_rating = 5 %}
                     {% assign full_stars = post.puntaje %}
@@ -72,7 +72,7 @@ layout: default
                         <span class="star empty">⭒</span> <!-- Estrella vacía -->
                     {% endfor %}
                 </div>
-            </p>
+           
         </li>
         {% endfor %}
     </ul>
