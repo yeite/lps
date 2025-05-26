@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Nonnas"
+tags: pelicula
+puntaje: 3
+year: 2025
+director: Stephen Chbosky
+img: https://pics.filmaffinity.com/nonnas-595232699-large.jpg
+---
+
+Es una película basada en una historia real sobre un restaurante de Nueva York que emplea abuelas italianas para realizar deliciosos platos típicos de la comida italiana.
+
+El film no cae en el típico cliché Italiano. Cuenta una buena historia sazonada con humor y buenas intenciones. Tampoco pretende ni quiere caer en el dramatismo de toda historia real recreada, sino que busca (y logra), ser una película liviana para toda la familia.
