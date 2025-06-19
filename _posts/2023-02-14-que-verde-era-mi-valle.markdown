@@ -3,7 +3,7 @@ layout: post
 title: "Que verde era mi valle"
 tags: pelicula
 puntaje: 5
-year: 1991
+year: 1941
 director: John Ford
 img: https://pics.filmaffinity.com/how_green_was_my_valley-901792506-large.jpg
 ---
