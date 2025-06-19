@@ -1,0 +1,11 @@
+---
+layout: post
+title: "GTMax"
+tags: pelicula
+puntaje: 2
+year: 2024
+director: Olivier Schneider
+img: https://pics.filmaffinity.com/gtmax-817997371-large.jpg
+---
+
+Demasiado drama y poca acción para una película que promete adrenalina. Una película que podría ser la Rápido y Furioso de las motos pero no saca provecho. La trama es sobre dos hermanos que son reclutados para un atraco de alto perfil.
