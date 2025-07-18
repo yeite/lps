@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como La Música se Liberó"
+title: "Como la música se liberó"
 tags: pelicula
 puntaje: 5
 year: 2024
