@@ -5,7 +5,7 @@ tags: pelicula
 puntaje: 3
 year: 2003
 director: John Singleton
-img: https://pics.filmaffinity.com/familia_pero_no_mucho-196799393-large.jpg
+img: https://pics.filmaffinity.com/2_fast_2_furious-199382456-large.jpg
 ---
 
 En esta segunda entrega, hay más manejo de cámaras, primeros planos y filmada de tal manera que las carreras dan sensación de velocidad. Hay carreras que suceden en las calles como si estuviéramos dentro de un videojuego. 
