@@ -3,7 +3,7 @@ layout: post
 title: "Rápido y furioso 9"
 tags: pelicula
 puntaje: 1
-year: 2017
+year: 2021
 director: F. Gary Gray
 img: https://pics.filmaffinity.com/fast_furious_9-988066985-large.jpg
 ---
