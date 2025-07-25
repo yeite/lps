@@ -3,7 +3,7 @@ layout: post
 title: "Rápido y furioso 7"
 tags: pelicula
 puntaje: 4
-year: 2013
+year: 2015
 director: James Wan
 img: https://pics.filmaffinity.com/furious_7_fast_furious_7-904800766-large.jpg
 ---
