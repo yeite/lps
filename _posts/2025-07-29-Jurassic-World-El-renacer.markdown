@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Jurassic World: El renacer"
+tags: pelicula
+puntaje: 4
+year: 2025
+director: Gareth Edwards
+img: https://pics.filmaffinity.com/jurassic_world_rebirth-254962281-large.jpg
+---
+
+Este tipo de película es distinto si se ve en la TV o en el cine. . Los efectos especiales, como así las criaturas manipuladas genéticamente están muy bien logradas y eso se merece la estrella extra. En casi todo momento la película transmite una sensación de alerta, hasta con escapes exagerados y situaciones absurdas casi forzadas. 
+
+Si bien puede resultar algo previsible el guion, sin arriesgar ninguna sorpresa, la película en general cumple para el que espera pasar un buen rato. 
