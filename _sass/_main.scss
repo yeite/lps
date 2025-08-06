@@ -13,7 +13,8 @@ html {
 }
 
 .about-page {
-  cursor: url('/assets/img/et-hand.png'), auto;
+  cursor: url('{{ site.url }}{{ site.baseurl }}/assets/img/ethand.png'), auto;
+
 }
 
 #theme-toggle {
