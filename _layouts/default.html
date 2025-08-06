@@ -17,8 +17,7 @@ layout: compress
 
 
 
-
-<body class="{% if page.url == '/lps/about/' %}about-page{% endif %}">
+<body class="{% if page.url contains 'about' %}about-page{% endif %}">
   <main>
     {% include anchor_headings.html html=content anchorBody="#" %}
   </main>
