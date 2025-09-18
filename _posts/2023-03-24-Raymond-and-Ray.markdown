@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raymond & Ray"
+title: "Raymond and Ray"
 tags: pelicula
 puntaje: 3
 year: 2022
