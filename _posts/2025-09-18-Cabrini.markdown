@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Cabrini"
+tags: pelicula
+puntaje: 5
+year: 2024
+director: Alejandro Monteverde
+img: https://pics.filmaffinity.com/cabrini-314922899-large.jpg
+---
+
+La historia de la Madre Cabrini. Dos horas de película que pasan como si nada.
+
