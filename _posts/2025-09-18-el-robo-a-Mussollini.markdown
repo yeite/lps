@@ -8,4 +8,4 @@ director: Renato De Maria
 img: https://pics.filmaffinity.com/rapiniamo_il_duce-571172187-large.jpg
 ---
 
-Película Italiana basada en una historia real pero ambientada en comedi . Con una trama de acción y amor en partes iguales.
+Película Italiana basada en una historia real pero ambientada en comedia. Con una trama de acción y amor en partes iguales.

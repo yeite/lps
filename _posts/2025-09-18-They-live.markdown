@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Todopoderoso"
+title: "They Live"
 tags: pelicula
 puntaje: 4
 year: 1988
@@ -12,4 +12,5 @@ Esta película de 1988 fue la que inspiró al juego Duke Nukem. Con un guion ori
 
 Un dato: en la película mencionan a 2025 como el año donde se consolida el dominio total tanto político como económico, por parte de la clase que concentra la riqueza mundial por sobre el resto.
 
-https://youtu.be/dshTKSFaIYY?si=s2weXigWV-8XNicv
+[Ver escena](https://youtu.be/dshTKSFaIYY?si=s2weXigWV-8XNicv){:target="_blank"}.
+
