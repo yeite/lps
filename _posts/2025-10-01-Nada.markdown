@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Nada"
+tags: serie
+puntaje: 3
+year: 2023
+director: Mariano Cohn, Gastón Duprat
+img: https://pics.filmaffinity.com/nada-858924001-large.jpg
+---
+
+Luis Brandoni como actor principal y una participación especial de Robert de Niro. Una serie de 5 capítulos, de 30 minutos cada uno. Se recomienda  ver esta serie con la panza llena.

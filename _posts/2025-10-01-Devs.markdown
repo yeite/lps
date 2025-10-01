@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Devs"
+tags: serie
+puntaje: 5
+year: 2020
+director: Alex Garland
+img: https://pics.filmaffinity.com/devs-645207482-large.jpg
+---
+
+Una miniserie oscura de ciencia ficción, no distante de un futuro no tan lejano.

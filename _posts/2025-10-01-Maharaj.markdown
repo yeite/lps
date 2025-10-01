@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Maharaj"
+tags: pelicula
+puntaje: 2
+year: 2024
+director: Malhotra P. Siddharth
+img: https://pics.filmaffinity.com/maharaj-873335559-large.jpg
+---
+
+En su puesta en escena hay un despliegue escenográfico de color absoluto. Una historia cruda termina convirtiéndose en una inocente fábula por como fue ejecutada por el director. 
+
+La forma que es interpretada diluyen la historia que se intenta contar sobre un hecho real de un líder religioso cuestionado por un periodista. Una historia cruda suavizada por una historia de amor 

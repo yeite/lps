@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Babylon"
+tags: pelicula
+puntaje: 4
+year: 2022
+director: Damien Chazelle
+img: https://pics.filmaffinity.com/babylon-747027954-large.jpg
+---
+
+Película de tres ahora que cuenta la historia de los inicios del cine. Un homenaje a la trayectoria y exceso que recuerda a « La Dolce Vita »
+
+Muestra la transición del cine mudo al sonoro y el auge y caída de sus estrellas. 

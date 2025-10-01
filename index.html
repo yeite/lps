@@ -14,14 +14,12 @@ layout: default
         <br>
         
                   <h3>
-        Un total de <strong>{{ site.posts | size }}</strong> películas y series reseñadas hasta la fecha.<a href="{{ site.url }}{{ site.baseurl }}/archive">Ver la lista</a>
-        <br>
-    
+        Un total de <strong>{{ site.posts | size }}</strong> películas y series reseñadas hasta la fecha.
+     
     </h3>
   
         
         
-<p>🤔 ¿No encontrás donde ver la película?<a href="https://www.buscala.tv/" target="_blank"> buscala.tv</a></p>
 	    
         
     
@@ -76,14 +74,21 @@ layout: default
         </li>
         {% endfor %}
     </ul>
+    
+  
+
 </section>
 
+<div class="listado-completo">  
+    
+<a href="{{ site.url }}{{ site.baseurl }}/archive">Ver el listado completo</a>
+
+</div>
 
 
 <div class="filtros">
-    <p>Filtrar películas por:</p>
-    
- <a href="{{ site.url }}{{ site.baseurl }}/anos">Año</a>
+    <p>Filtrar películas por <a href="{{ site.url }}{{ site.baseurl }}/anos">Año</a>
+    </p>
 
 
 </div>
