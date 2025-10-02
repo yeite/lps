@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Metegol"
+tags: pelicula
+puntaje: 4
+year: 2013
+director: Juan José Campanella
+img: https://pics.filmaffinity.com/metegol-867708817-large.jpg
+---
+
+Esta película animada 3D Argentina esta a la altura de grandes producciones de su tipo.
