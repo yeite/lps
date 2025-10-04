@@ -4,7 +4,7 @@ title: "El encargado"
 tags: serie
 puntaje: 4
 year: 2022
-director: Mariano Cohn, Gastón Duprat , Diego Blieffeld, Mariano Cohn, Gastón Duprat, Jerónimo Carranza
+director: Mariano Cohn, Gastón Duprat, Diego Blieffeld, Jerónimo Carranza, Emanuel Diez
 img: https://pics.filmaffinity.com/el_encargado-854903799-large.jpg
 ---
 

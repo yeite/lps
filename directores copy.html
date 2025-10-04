@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Directores"
+permalink: /directores/
+---
+
+<section class="posts">
+    <div class="flex-row-between">
+        <h1>Directores</h1>
+        <a href="{{ site.url }}{{ site.baseurl }}"
+            ><i class="fa fa-home" aria-hidden="true"></i> Inicio</a
+        >
+    </div>
+
+    <ul>
+        {% assign all_directors = site.directores %} {% for director in
+        all_directors %}
+        <li>
+            <a
+                href="{{ '/directores/' | append: director.slug | relative_url }}"
+            >
+                {{ director.title }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
