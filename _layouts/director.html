@@ -4,22 +4,36 @@ layout: default
 
 <section class="posts">
     <div class="flex-row-between">
-        <h1>{{ page.title }}</h1>
-        <a href="{{ site.baseurl }}/directores/">
-            <i class="fa fa-arrow-left" aria-hidden="true"></i> Volver a
-            Directores
-        </a>
+        <h1>Directores</h1>
+        <a href="{{ site.url }}{{ site.baseurl }}"
+            ><i class="fa fa-home" aria-hidden="true"></i> Inicio</a
+        >
     </div>
 
-    {% if page.peliculas and page.peliculas.size > 0 %}
+
+
+    <h2>{{ page.title }}</h2>
+
+    {{ content }}
+
+
+    </section>
+
     <ul>
-        {% for pelicula in page.peliculas %}
+        {% assign films = site.posts | where: "director", page.director %} {%
+        for post in films %}
         <li>
-            <a href="{{ pelicula.url | relative_url }}">{{ pelicula.title }}</a>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a> {% if
+            post.year %}({{ post.year }}){% endif %}
         </li>
         {% endfor %}
     </ul>
-    {% else %}
-    <p>Este director no tiene películas registradas.</p>
-    {% endif %}
+
+    <br />
+
+    <p>
+        <a href="{{ '/directores/' | relative_url }}"
+            >← Volver a la lista de directores</a
+        >
+    </p>
 </section>

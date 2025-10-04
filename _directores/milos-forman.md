@@ -1,8 +1,6 @@
 ---
 layout: director
 title: Milos Forman
+director: Milos Forman
 slug: milos-forman
-peliculas:
-  - title: "Amadeus"
-    url: "2023/03/24/amadeus/"
 ---

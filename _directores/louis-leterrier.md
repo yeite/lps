@@ -1,8 +1,6 @@
 ---
 layout: director
 title: Louis Leterrier
+director: Louis Leterrier
 slug: louis-leterrier
-peliculas:
-  - title: "Rápido y furioso X"
-    url: "2025/07/25/rapido-furioso-X/"
 ---

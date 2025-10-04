@@ -1,8 +1,6 @@
 ---
 layout: director
 title: Olivier Schneider
+director: Olivier Schneider
 slug: olivier-schneider
-peliculas:
-  - title: "GTMax"
-    url: "2025/06/19/GTMax/"
 ---

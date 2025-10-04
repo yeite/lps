@@ -1,8 +1,6 @@
 ---
 layout: director
 title: David Leitch
+director: David Leitch
 slug: david-leitch
-peliculas:
-  - title: "Tren Bala"
-    url: "2023/10/23/tren-bala/"
 ---

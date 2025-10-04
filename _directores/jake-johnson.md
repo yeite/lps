@@ -1,8 +1,6 @@
 ---
 layout: director
 title: Jake Johnson
+director: Jake Johnson
 slug: jake-johnson
-peliculas:
-  - title: "Autosuficiencia"
-    url: "2025/10/04/autosuficiencia/"
 ---

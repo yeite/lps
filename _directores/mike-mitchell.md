@@ -1,8 +1,6 @@
 ---
 layout: director
 title: Mike Mitchell
+director: Mike Mitchell
 slug: mike-mitchell
-peliculas:
-  - title: "Kung Fu Panda 4"
-    url: "2024/10/21/kung-fu-panda-4/"
 ---

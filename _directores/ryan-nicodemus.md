@@ -1,8 +1,6 @@
 ---
 layout: director
 title: Ryan Nicodemus
+director: Ryan Nicodemus
 slug: ryan-nicodemus
-peliculas:
-  - title: "Minimalism: A Documentary About the Important Things"
-    url: "2021/09/01/minimalism-a-documentary-about-the-important-things/"
 ---
