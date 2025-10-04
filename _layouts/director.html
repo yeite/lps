@@ -23,7 +23,7 @@ layout: default
         {% assign films = site.posts | where: "director", page.director %} {%
         for post in films %}
         <li>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a> {% if
+            <a href="{{ post.url | relative_url }}/">{{ post.title }}</a> {% if
             post.year %}({{ post.year }}){% endif %}
         </li>
         {% endfor %}
