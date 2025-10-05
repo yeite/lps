@@ -29,7 +29,7 @@ Dir.glob("#{posts_dir}/*.{md,markdown}") do |post_path|
       filename = File.basename(post_path, ".*") # ej: "2025-08-18-puede-besar-al-esposo"
       year, month, day, *title_parts = filename.split("-")
       slug_post = title_parts.join("-")
-      url = "/lps/#{year}/#{month}/#{day}/#{slug_post}/"
+      url = "#{year}/#{month}/#{day}/#{slug_post}/"
 
       # Separar directores por ',' o ';' y agregar la película
       front_matter["director"]
