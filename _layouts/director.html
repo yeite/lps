@@ -15,7 +15,9 @@ layout: default
     <ul>
         {% for pelicula in page.peliculas %}
         <li>
-            <a href="{{ pelicula.url | relative_url }}">{{ pelicula.title }}</a>
+            <a href="{{ pelicula.url | relative_url/ }}"
+                >{{ pelicula.title }}</a
+            >
         </li>
         {% endfor %}
     </ul>

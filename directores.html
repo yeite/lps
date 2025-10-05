@@ -18,7 +18,7 @@ permalink: /directores/
         %}
         <li>
             <a
-                href="{{ director.slug | prepend: '/directores/' | relative_url }}/"
+                href="{{ director.slug | prepend: '/directores/' | relative_url/ }}"
             >
                 {{ director.title }} ({{ count }})
             </a>
