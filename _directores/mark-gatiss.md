@@ -1,6 +1,8 @@
 ---
 layout: director
 title: Mark Gatiss
-director: Mark Gatiss
 slug: mark-gatiss
+peliculas:
+  - title: "Sherlock"
+    url: "/lps/2021/09/10/sherlock/"
 ---

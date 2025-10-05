@@ -1,6 +1,8 @@
 ---
 layout: director
 title: Jeff Schaffer
-director: Jeff Schaffer
 slug: jeff-schaffer
+peliculas:
+  - title: "Euroviaje Censurado"
+    url: "/lps/2021/09/01/euroviaje-censurado/"
 ---

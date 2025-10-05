@@ -1,6 +1,8 @@
 ---
 layout: director
 title: John Ford
-director: John Ford
 slug: john-ford
+peliculas:
+  - title: "Que verde era mi valle"
+    url: "/lps/2023/02/14/que-verde-era-mi-valle/"
 ---

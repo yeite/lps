@@ -1,6 +1,8 @@
 ---
 layout: director
 title: Jonah Hill
-director: Jonah Hill
 slug: jonah-hill
+peliculas:
+  - title: "Mid90s"
+    url: "/lps/2021/10/05/Mid90s/"
 ---

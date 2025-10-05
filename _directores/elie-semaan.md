@@ -1,6 +1,8 @@
 ---
 layout: director
 title: Elie Semaan
-director: Elie Semaan
 slug: elie-semaan
+peliculas:
+  - title: "Luna sin miel"
+    url: "/lps/2024/12/04/luna-sin-miel/"
 ---

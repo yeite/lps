@@ -1,6 +1,8 @@
 ---
 layout: director
 title: James Cameron
-director: James Cameron
 slug: james-cameron
+peliculas:
+  - title: "Avatar: El sentido del agua"
+    url: "/lps/2023/02/14/avatar-2/"
 ---

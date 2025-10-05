@@ -1,6 +1,8 @@
 ---
 layout: director
 title: Arantxa Echevarría
-director: Arantxa Echevarría
 slug: arantxa-echevarria
+peliculas:
+  - title: "La familia perfecta"
+    url: "/lps/2022/10/03/La-familia-perfecta/"
 ---

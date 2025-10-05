@@ -1,6 +1,8 @@
 ---
 layout: director
 title: Antonio Usbergo
-director: Antonio Usbergo
 slug: antonio-usbergo
+peliculas:
+  - title: "Sotto il sole di Riccione"
+    url: "/lps/2021/08/31/sotto-il-sole-di-riccione/"
 ---
