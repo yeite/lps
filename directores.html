@@ -13,13 +13,14 @@ permalink: /directores/
     </div>
 
     <ul>
-        {% assign all_directors = site.directores %} {% for director in
-        all_directors %}
+        {% assign all_directors = site.directores | sort: "title" %} {% for
+        director in all_directors %} {% assign count = director.peliculas | size
+        %}
         <li>
             <a
-                href="{{ '/directores/' | append: director.slug | relative_url }}/"
+                href="{{ director.slug | prepend: '/directores/' | relative_url }}"
             >
-                {{ director.title }}
+                {{ director.title }} ({{ count }})
             </a>
         </li>
         {% endfor %}
