@@ -4,7 +4,7 @@ title: Vacaciones en Roma
 tags: pelicula
 puntaje: 4
 year: 1953
-director: Aneesh Chaganty
+director: William Wyler
 img: https://pics.filmaffinity.com/Vacaciones_en_Roma-892083857-large.jpg
 ---
 
