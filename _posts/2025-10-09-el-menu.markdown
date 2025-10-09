@@ -1,0 +1,12 @@
+---
+layout: post
+title: "El menú"
+tags: pelicula
+puntaje: 3
+year: 2022
+director: Mark Mylod
+img: https://pics.filmaffinity.com/the_menu-905441147-large.jpg
+
+---
+
+Un guion original. En la mitad la película pierde dinamismo y se desinfla la historia, pero nuevamente toma su curva para un final digno. Una película distinta.

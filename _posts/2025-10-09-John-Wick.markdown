@@ -1,0 +1,14 @@
+---
+layout: post
+title: "John Wick"
+tags: pelicula
+puntaje: 2
+year: 2014
+director: Chad Stahelski, David Leitch
+img: https://pics.filmaffinity.com/john_wick-166872838-large.jpg
+
+---
+
+Una película de acción liguera con un sólido guion.
+
+Un asesino retirado vuelve a la acción luego de que matar a su perro y le robaran su auto.

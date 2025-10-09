@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Higuita: El camino del Escorpión"
+tags: pelicula
+puntaje: 3
+year: 2023
+director: Luis Ara
+img: https://pics.filmaffinity.com/higuita_el_camino_del_escorpion-528906016-large.jpg
+
+---
+
+No ahonda demasiado en la historia de su infancia, ni de sus días siendo famoso, ni de su relación con Pablo Escobar. 

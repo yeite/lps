@@ -5,4 +5,6 @@ slug: james-mangold
 peliculas:
   - title: "Indiana Jones y el dial del destino"
     url: "2024/01/25/Indiana-Jones-y-el-dial-del-destino/"
+  - title: "Un completo desconocido"
+    url: "2025/10/09/un-completo-desconocido/"
 ---

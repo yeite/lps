@@ -1,0 +1,11 @@
+---
+layout: post
+title: "It 2"
+tags: pelicula
+puntaje: 1
+year: 2019
+director: Andy Muschietti
+img: https://pics.filmaffinity.com/it_chapter_two-844935737-large.jpg
+---
+
+¿Como puede ser que una secuela, con 2 años de diferencia, tenga tanta diferencia de calidad? Además de ser muy larga, no la recomiendo. Quédense con la primera. 

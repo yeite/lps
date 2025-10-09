@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Soul"
+tags: pelicula
+puntaje: 4
+year: 2020
+director: Pete Docter, Kemp Powers
+img: https://pics.filmaffinity.com/soul-557797463-large.jpg
+---
+
+Hay animaciones que son tanto para grandes como para chicos y esta es una de ellas. Fuerte mensaje que deja esta película.

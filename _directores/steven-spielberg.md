@@ -9,4 +9,6 @@ peliculas:
     url: "2024/01/25/AI-inteligencia-artificial/"
   - title: "Reto a Muerte (Duel)"
     url: "2024/02/20/reto-a-muerte/"
+  - title: "Atrápame si puedes"
+    url: "2025/10/07/atrapame-si-puedes/"
 ---
