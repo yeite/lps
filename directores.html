@@ -20,8 +20,9 @@ permalink: /directores/
             <a
                 href="{{ director.slug | prepend: '/directores/' | relative_url }}/"
             >
-                {{ director.title }} ({{ count }})
+                {{ director.title }}
             </a>
+            ({{ count }})
         </li>
         {% endfor %}
     </ul>
