@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Tron Ares"
+tags: pelicula
+puntaje: 3
+year: 2025
+director: Joachim Rønning
+img: https://pics.filmaffinity.com/tron_ares-548031766-large.jpg
+---
+
+Esta última entrega es un deleite de efectos especiales y musicalización a un nivel que alcanza la perfección, sin embargo su guion es demasiado simplón.
