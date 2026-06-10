@@ -18,7 +18,7 @@ layout: default
             {% comment %} Limpiamos la extensión .markdown generada
             automáticamente {% endcomment %} {% assign url_limpia = pelicula.url
             | replace: '.markdown', '.html' %}
-            <a href="{{ url_limpia | relative_url }}">{{ pelicula.title }}</a>
+            <a href="{{ url_limpia | relative_url }}/">{{ pelicula.title }}</a>
         </li>
         {% endfor %}
     </ul>
