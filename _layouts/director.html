@@ -2,25 +2,47 @@
 layout: default
 ---
 
+{% comment %} TRUCO: Si el script automático amontonó todo en el Front Matter,
+page.title puede venir vacío. Si pasa eso, intentamos rescatar el título
+buscando el texto que quedó dentro de la página. {% endcomment %} {% assign
+director_title = page.title %} {% if director_title == nil or director_title ==
+"" %} {% if content contains 'title: "' %} {% assign director_title = content |
+split: 'title: "' | last | split: '"' | first %} {% endif %} {% endif %}
+
 <section class="posts">
     <div class="flex-row-between">
-        <h1>{{ page.title }}</h1>
+        <!-- Usamos la variable rescatada aquí -->
+        <h1>{{ director_title | default: "Director" }}</h1>
         <a href="{{ site.baseurl }}/directores/">
             <i class="fa fa-arrow-left" aria-hidden="true"></i> Volver a
             Directores
         </a>
     </div>
 
-    {% if page.peliculas and page.peliculas.size > 0 %}
+    {% comment %} Si el Front Matter se rompió, 'page.peliculas' no existirá
+    como lista, pero podemos buscar los enlaces a las películas directamente en
+    el texto plano (content). {% endcomment %} {% if page.peliculas and
+    page.peliculas.size > 0 %}
     <ul>
         {% for pelicula in page.peliculas %}
         <li>
-            {% comment %} Limpiamos la extensión .markdown generada
-            automáticamente {% endcomment %} {% assign url_limpia = pelicula.url
-            | replace: '.markdown', '.html' %}
+            {% assign url_limpia = pelicula.url | replace: '.markdown', '.html'
+            %}
             <a href="{{ url_limpia | relative_url }}/">{{ pelicula.title }}</a>
         </li>
         {% endfor %}
+    </ul>
+    {% elsif content contains 'title:' %}
+    <!-- Bloque de rescate para los archivos que se rompieron -->
+    <ul>
+        {% assign lineas = content | split: '- title: "' %} {% for linea in
+        lineas %} {% unless forloop.first %} {% assign p_title = linea | split:
+        '"' | first %} {% assign p_url = linea | split: 'url: "' | last | split:
+        '"' | first | replace: '.markdown', '.html' %}
+        <li>
+            <a href="{{ p_url | relative_url }}/">{{ p_title }}</a>
+        </li>
+        {% endunless %} {% endfor %}
     </ul>
     {% else %}
     <p>Este director no tiene películas registradas.</p>
