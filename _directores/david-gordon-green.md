@@ -7,4 +7,6 @@ peliculas:
     url: "2025/10/09/halloween-kills/"
   - title: "La noche de Halloween"
     url: "2025/10/09/la-noche-de-halloween/"
+  - title: "Halloween ends"
+    url: "2025/10/20/Halloween-ends/"
 ---
